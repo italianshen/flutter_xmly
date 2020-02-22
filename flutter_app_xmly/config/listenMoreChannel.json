@@ -1,0 +1,50 @@
+{
+	"data": {
+		"channelResults": [
+			{
+				"bigCover": "http://fdfs.xmcdn.com/group43/M03/35/65/wKgKjVsfZhqg6R_IAAEp301veyw380.png",
+				"channelId": 443,
+				"channelName": "头条快报",
+				"channelProperty": "TOUTIAO",
+				"cover": "http://fdfs.xmcdn.com/group43/M03/35/65/wKgKjVsfZhagabhLAAJEKXOy9_I338.png",
+				"createdAt": 0,
+				"isRec": false,
+				"jumpUrl": "iting://open?msg_type=72&tabId=1",
+				"playPam ram": {
+					"tabid": "1",
+					"pageSize": "20",
+					"albumId": "29533122",
+					"pageId": "1",
+					"isWrap": "true"
+				},
+				"playUrl": "http://mobile.ximalaya.com/discovery-firstpage/headline/trackItems/ts-123",
+				"slogan": "“穿防护服摆拍”是给防疫添乱"
+			},
+			{
+				"bigCover": "http://fdfs.xmcdn.com/group40/M06/75/CC/wKgJT1rEhffifyGEAADjLMh-3tU233.png",
+				"channelId": 200,
+				"channelName": "晚安音乐",
+				"channelProperty": "ONE_KEY",
+				"cover": "http://fdfs.xmcdn.com/group42/M03/AB/92/wKgJ81rEesDyS9eVAAFdZBYlQOs826.png",
+				"isRec": false,
+				"playParam": {},
+				"slogan": ""
+			},
+			{
+				"bigCover": "http://fdfs.xmcdn.com/group43/M02/35/62/wKgKjVsfZgPTBgSvAAD0_dy25NM060.png",
+				"channelId": 442,
+				"channelName": "每日必听",
+				"channelProperty": "DT",
+				"cover": "http://fdfs.xmcdn.com/group43/M02/35/62/wKgKjVsfZf-ydaPMAAHReTuHwTQ752.png",
+				"isRec": false,
+				"jumpUrl": "iting://open?msg_type=66",
+				"playParam": {},
+				"playUrl": "http://ifm.ximalaya.com/recsys-stream-query/recsys/daily/rec/load",
+				"slogan": "与好声音不期而遇"
+			}
+		],
+		"hasMore": false,
+		"totalSize": 3
+	},
+	"ret": 0
+}

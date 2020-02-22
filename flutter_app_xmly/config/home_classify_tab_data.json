@@ -1,0 +1,604 @@
+{
+  "code" : "43_310000_3100",
+  "msg" : "成功",
+  "ret" : 0,
+  "list" : [
+    {
+      "itemList" : [
+        {
+          "isDisplayCornerMark" : false,
+          "itemType" : 0,
+          "coverPath" : "http:\/\/fdfs.xmcdn.com\/group38\/M09\/A0\/61\/wKgJo1pyidjyCKlkAAACuNDf1yw260.png",
+          "itemDetail" : {
+            "categoryType" : 1,
+            "title" : "有声小说",
+            "name" : "audio-novel",
+            "moduleType" : 9,
+            "categoryId" : 49,
+            "filterSupported" : true
+          }
+        },
+        {
+          "itemType" : 1,
+          "isDisplayCornerMark" : false,
+          "itemDetail" : {
+            "keywordId" : 231,
+            "categoryId" : 49,
+            "keywordName" : "言情"
+          }
+        },
+        {
+          "itemType" : 1,
+          "isDisplayCornerMark" : false,
+          "itemDetail" : {
+            "categoryId" : 49,
+            "keywordId" : 232,
+            "keywordName" : "悬疑"
+          }
+        },
+        {
+          "itemType" : 1,
+          "isDisplayCornerMark" : false,
+          "itemDetail" : {
+            "categoryId" : 49,
+            "keywordName" : "都市",
+            "keywordId" : 235
+          }
+        }
+      ],
+      "groupName" : "有声小说",
+      "displayStyleType" : 0
+    },
+    {
+      "itemList" : [
+        {
+          "coverPath" : "http:\/\/fdfs.xmcdn.com\/group2\/M01\/3C\/25\/wKgJRFpgeiGjNIz8AAAEHfGVR5w529.png",
+          "itemDetail" : {
+            "categoryType" : 1,
+            "name" : "bestseller",
+            "moduleType" : 8,
+            "categoryId" : 46,
+            "filterSupported" : true,
+            "title" : "畅销书"
+          },
+          "itemType" : 0,
+          "isDisplayCornerMark" : false
+        },
+        {
+          "itemType" : 1,
+          "isDisplayCornerMark" : false,
+          "itemDetail" : {
+            "keywordName" : "社科",
+            "categoryId" : 46,
+            "keywordId" : 237
+          }
+        },
+        {
+          "itemType" : 1,
+          "isDisplayCornerMark" : false,
+          "itemDetail" : {
+            "keywordId" : 408,
+            "categoryId" : 46,
+            "keywordName" : "经管"
+          }
+        },
+        {
+          "isDisplayCornerMark" : false,
+          "itemDetail" : {
+            "keywordId" : 236,
+            "categoryId" : 46,
+            "keywordName" : "文学"
+          },
+          "itemType" : 1
+        }
+      ],
+      "groupName" : "畅销书",
+      "displayStyleType" : 0
+    },
+    {
+      "itemList" : [
+        {
+          "isDisplayCornerMark" : false,
+          "itemDetail" : {
+            "title" : "儿童",
+            "categoryType" : 0,
+            "filterSupported" : true,
+            "name" : "kid",
+            "categoryId" : 6
+          },
+          "coverPath" : "http:\/\/fdfs.xmcdn.com\/group17\/M02\/F5\/7E\/wKgJKVpgesWBB7FuAAAIHf8EMb8482.png",
+          "itemType" : 0
+        },
+        {
+          "itemType" : 1,
+          "isDisplayCornerMark" : false,
+          "itemDetail" : {
+            "keywordId" : 155,
+            "keywordName" : "故事",
+            "categoryId" : 6
+          }
+        },
+        {
+          "itemType" : 1,
+          "isDisplayCornerMark" : false,
+          "itemDetail" : {
+            "categoryId" : 6,
+            "keywordId" : 336,
+            "keywordName" : "动画"
+          }
+        },
+        {
+          "itemType" : 1,
+          "isDisplayCornerMark" : false,
+          "itemDetail" : {
+            "categoryId" : 6,
+            "keywordName" : "儿歌",
+            "keywordId" : 337
+          }
+        }
+      ],
+      "groupName" : "儿童",
+      "displayStyleType" : 0
+    },
+    {
+      "itemList" : [
+        {
+          "coverPath" : "http:\/\/fdfs.xmcdn.com\/group37\/M0B\/A6\/BB\/wKgJoFpCJoWhvWhMAAALwGZovno260.png",
+          "isDisplayCornerMark" : false,
+          "itemType" : 0,
+          "itemDetail" : {
+            "categoryType" : 0,
+            "title" : "音乐",
+            "categoryId" : 2,
+            "filterSupported" : true,
+            "name" : "music"
+          }
+        },
+        {
+          "coverPath" : "http:\/\/fdfs.xmcdn.com\/group36\/M00\/D9\/DB\/wKgJUlpCJrrz3W-SAAAGBYO85KI690.png",
+          "isDisplayCornerMark" : false,
+          "itemType" : 0,
+          "itemDetail" : {
+            "categoryId" : 12,
+            "filterSupported" : true,
+            "categoryType" : 0,
+            "title" : "相声评书",
+            "name" : "comic"
+          }
+        },
+        {
+          "coverPath" : "http:\/\/fdfs.xmcdn.com\/group27\/M0B\/1A\/5C\/wKgJW1pgfqeAY9CXAAAGgDatPNY413.png",
+          "isDisplayCornerMark" : false,
+          "itemType" : 0,
+          "itemDetail" : {
+            "moduleType" : 0,
+            "name" : "duanzi",
+            "filterSupported" : true,
+            "categoryType" : 1,
+            "categoryId" : 48,
+            "title" : "段子"
+          }
+        },
+        {
+          "coverPath" : "http:\/\/fdfs.xmcdn.com\/group37\/M06\/A6\/CD\/wKgJoFpCJvyB22rnAAAH1Kp10EQ708.png",
+          "isDisplayCornerMark" : false,
+          "itemType" : 0,
+          "itemDetail" : {
+            "categoryId" : 10,
+            "title" : "情感生活",
+            "filterSupported" : true,
+            "categoryType" : 0,
+            "name" : "emotion"
+          }
+        },
+        {
+          "coverPath" : "http:\/\/fdfs.xmcdn.com\/group38\/M02\/07\/E7\/wKgJo1ph1p-yKR19AAAI2Is_FW0786.png",
+          "isDisplayCornerMark" : false,
+          "itemType" : 0,
+          "itemDetail" : {
+            "name" : "entertainment",
+            "categoryType" : 0,
+            "filterSupported" : true,
+            "title" : "娱乐",
+            "categoryId" : 4
+          }
+        },
+        {
+          "coverPath" : "http:\/\/fdfs.xmcdn.com\/group36\/M07\/D9\/E3\/wKgJUlpCJyLjoXrJAAAHmzvLl44208.png",
+          "isDisplayCornerMark" : false,
+          "itemType" : 0,
+          "itemDetail" : {
+            "name" : "dianying",
+            "title" : "影视",
+            "filterSupported" : true,
+            "categoryId" : 23,
+            "categoryType" : 0
+          }
+        },
+        {
+          "coverPath" : "http:\/\/fdfs.xmcdn.com\/group36\/M06\/27\/B0\/wKgJTVpCJzeC0or1AAAH9B9bq_k532.png",
+          "isDisplayCornerMark" : false,
+          "itemType" : 0,
+          "itemDetail" : {
+            "title" : "头条",
+            "filterSupported" : true,
+            "categoryId" : 1,
+            "name" : "news",
+            "categoryType" : 0
+          }
+        },
+        {
+          "coverPath" : "http:\/\/fdfs.xmcdn.com\/group36\/M0A\/D9\/ED\/wKgJUlpCJ0jzdIA1AAAG4ryxe3k137.png",
+          "isDisplayCornerMark" : false,
+          "itemType" : 0,
+          "itemDetail" : {
+            "categoryType" : 0,
+            "name" : "youxi",
+            "categoryId" : 24,
+            "filterSupported" : true,
+            "title" : "二次元"
+          }
+        },
+        {
+          "coverPath" : "http:\/\/fdfs.xmcdn.com\/group43\/M01\/37\/25\/wKgKjVsfe5nzlM5CAAALEoMQUXo268.png",
+          "isDisplayCornerMark" : false,
+          "itemType" : 0,
+          "itemDetail" : {
+            "categoryId" : 60,
+            "title" : "体育",
+            "name" : "sports",
+            "filterSupported" : true,
+            "categoryType" : 1,
+            "moduleType" : 0
+          }
+        }
+      ],
+      "groupName" : "娱乐",
+      "displayStyleType" : 1
+    },
+    {
+      "itemList" : [
+        {
+          "itemDetail" : {
+            "categoryId" : 9,
+            "filterSupported" : true,
+            "name" : "culture",
+            "title" : "历史",
+            "categoryType" : 0
+          },
+          "coverPath" : "http:\/\/fdfs.xmcdn.com\/group36\/M05\/DA\/00\/wKgJUlpCJ-iDwfj_AAACxzB8BEI968.png",
+          "isDisplayCornerMark" : false,
+          "itemType" : 0
+        },
+        {
+          "itemDetail" : {
+            "name" : "finance",
+            "categoryId" : 8,
+            "categoryType" : 0,
+            "filterSupported" : true,
+            "title" : "商业财经"
+          },
+          "coverPath" : "http:\/\/fdfs.xmcdn.com\/group36\/M07\/27\/CB\/wKgJTVpCKAiRWni8AAAKjCjRus4906.png",
+          "isDisplayCornerMark" : false,
+          "itemType" : 0
+        },
+        {
+          "itemDetail" : {
+            "categoryType" : 0,
+            "name" : "renwen",
+            "categoryId" : 39,
+            "title" : "人文",
+            "filterSupported" : true
+          },
+          "coverPath" : "http:\/\/fdfs.xmcdn.com\/group37\/M09\/A6\/ED\/wKgJoVpCJ_vRgkJHAAAGf1OdF7E289.png",
+          "isDisplayCornerMark" : false,
+          "itemType" : 0
+        },
+        {
+          "itemDetail" : {
+            "categoryId" : 38,
+            "moduleType" : 0,
+            "title" : "英语",
+            "categoryType" : 1,
+            "name" : "english",
+            "filterSupported" : true
+          },
+          "coverPath" : "http:\/\/fdfs.xmcdn.com\/group37\/M09\/A6\/ED\/wKgJoFpCKB3DU0H3AAAEbtmqZ3o051.png",
+          "isDisplayCornerMark" : false,
+          "itemType" : 0
+        },
+        {
+          "itemDetail" : {
+            "title" : "个人成长",
+            "categoryType" : 0,
+            "filterSupported" : true,
+            "name" : "chair",
+            "categoryId" : 13
+          },
+          "coverPath" : "http:\/\/fdfs.xmcdn.com\/group36\/M08\/DA\/0D\/wKgJUlpCKFPTiJ50AAADbahK9JQ665.png",
+          "isDisplayCornerMark" : false,
+          "itemType" : 0
+        },
+        {
+          "itemDetail" : {
+            "categoryType" : 0,
+            "categoryId" : 18,
+            "title" : "IT科技",
+            "name" : "it",
+            "filterSupported" : true
+          },
+          "coverPath" : "http:\/\/fdfs.xmcdn.com\/group36\/M08\/DA\/11\/wKgJUlpCKGOToePXAAAPzaA2OWw224.png",
+          "isDisplayCornerMark" : false,
+          "itemType" : 0
+        },
+        {
+          "itemDetail" : {
+            "title" : "诗歌",
+            "moduleType" : 0,
+            "name" : "poem",
+            "categoryType" : 1,
+            "categoryId" : 34,
+            "filterSupported" : true
+          },
+          "coverPath" : "http:\/\/fdfs.xmcdn.com\/group37\/M07\/A7\/02\/wKgJoVpCKJHygW6NAAAGHQVssiY705.png",
+          "isDisplayCornerMark" : false,
+          "itemType" : 0
+        },
+        {
+          "itemDetail" : {
+            "filterSupported" : true,
+            "name" : "guoxueshuyuan",
+            "categoryType" : 1,
+            "moduleType" : 0,
+            "categoryId" : 40,
+            "title" : "国学书院"
+          },
+          "coverPath" : "http:\/\/fdfs.xmcdn.com\/group37\/M07\/A7\/02\/wKgJoFpCKKDwDIeMAAAGO1DXTig538.png",
+          "isDisplayCornerMark" : false,
+          "itemType" : 0
+        },
+        {
+          "itemDetail" : {
+            "moduleType" : 0,
+            "categoryId" : 32,
+            "categoryType" : 1,
+            "name" : "xiaoyuzhong",
+            "title" : "小语种",
+            "filterSupported" : true
+          },
+          "coverPath" : "http:\/\/fdfs.xmcdn.com\/group37\/M07\/A7\/0A\/wKgJoVpCKLPwcHOLAAALAFobo_s602.png",
+          "isDisplayCornerMark" : false,
+          "itemType" : 0
+        }
+      ],
+      "groupName" : "知识",
+      "displayStyleType" : 1
+    },
+    {
+      "itemList" : [
+        {
+          "itemDetail" : {
+            "categoryType" : 0,
+            "filterSupported" : true,
+            "name" : "lvyou",
+            "categoryId" : 22,
+            "title" : "旅游"
+          },
+          "coverPath" : "http:\/\/fdfs.xmcdn.com\/group37\/M03\/C9\/56\/wKgJoVpPWGbAn1d-AAAIiHYYBDE193.png",
+          "isDisplayCornerMark" : false,
+          "itemType" : 0
+        },
+        {
+          "itemDetail" : {
+            "title" : "健康养生",
+            "categoryId" : 7,
+            "filterSupported" : true,
+            "name" : "health",
+            "categoryType" : 0
+          },
+          "coverPath" : "http:\/\/fdfs.xmcdn.com\/group36\/M00\/4B\/0F\/wKgJTVpPWHTDPS1HAAAE6ezRIbc754.png",
+          "isDisplayCornerMark" : false,
+          "itemType" : 0
+        },
+        {
+          "itemDetail" : {
+            "title" : "时尚生活",
+            "categoryType" : 0,
+            "name" : "shishangshenghuo",
+            "categoryId" : 31,
+            "filterSupported" : true
+          },
+          "coverPath" : "http:\/\/fdfs.xmcdn.com\/group36\/M01\/27\/E7\/wKgJTVpCKO7jN05WAAAHculPz1o414.png",
+          "isDisplayCornerMark" : false,
+          "itemType" : 0
+        }
+      ],
+      "groupName" : "生活",
+      "displayStyleType" : 1
+    },
+    {
+      "itemList" : [
+        {
+          "coverPath" : "http:\/\/fdfs.xmcdn.com\/group37\/M04\/A7\/0F\/wKgJoVpCKRawkx23AAAFAc3So3g421.png",
+          "isDisplayCornerMark" : false,
+          "itemType" : 0,
+          "itemDetail" : {
+            "name" : "fufeijingping",
+            "categoryId" : 33,
+            "title" : "付费精品",
+            "categoryType" : 1,
+            "filterSupported" : true,
+            "moduleType" : 2
+          }
+        },
+        {
+          "coverPath" : "http:\/\/fdfs.xmcdn.com\/group37\/M04\/A7\/0F\/wKgJoFpCKSOjomLqAAAF8dL-EgM731.png",
+          "isDisplayCornerMark" : false,
+          "itemType" : 0,
+          "itemDetail" : {
+            "title" : "广播剧",
+            "filterSupported" : true,
+            "categoryType" : 0,
+            "name" : "radioplay",
+            "categoryId" : 15
+          }
+        },
+        {
+          "coverPath" : "http:\/\/fdfs.xmcdn.com\/group37\/M0A\/C9\/55\/wKgJoFpPWMHyTE62AAAFfZ78-l0250.png",
+          "isDisplayCornerMark" : false,
+          "itemType" : 0,
+          "itemDetail" : {
+            "name" : "yueyu",
+            "moduleType" : 6,
+            "title" : "粤语",
+            "categoryType" : 1,
+            "filterSupported" : true,
+            "categoryId" : 44
+          }
+        },
+        {
+          "coverPath" : "http:\/\/fdfs.xmcdn.com\/group39\/M0B\/4E\/5C\/wKgJn1p5Y6yBbKQKAAAIEV1K6h0364.png",
+          "isDisplayCornerMark" : false,
+          "itemType" : 0,
+          "itemDetail" : {
+            "title" : "法律课堂",
+            "categoryId" : 50,
+            "name" : "law",
+            "filterSupported" : true,
+            "moduleType" : 0,
+            "categoryType" : 1
+          }
+        },
+        {
+          "coverPath" : "http:\/\/fdfs.xmcdn.com\/group36\/M07\/DA\/29\/wKgJUlpCKTPBMbkiAAAKDsbVFp4742.png",
+          "isDisplayCornerMark" : false,
+          "itemType" : 0,
+          "itemDetail" : {
+            "categoryType" : 0,
+            "name" : "radio",
+            "categoryId" : 17,
+            "title" : "电台",
+            "filterSupported" : true
+          }
+        },
+        {
+          "coverPath" : "http:\/\/fdfs.xmcdn.com\/group37\/M08\/A7\/1A\/wKgJoVpCKVGyxO2cAAAIPQLxOgw746.png",
+          "isDisplayCornerMark" : false,
+          "itemType" : 0,
+          "itemDetail" : {
+            "name" : "ccp",
+            "categoryId" : 41,
+            "filterSupported" : true,
+            "moduleType" : 0,
+            "title" : "党员学习园地",
+            "categoryType" : 1
+          }
+        },
+        {
+          "coverPath" : "http:\/\/fdfs.xmcdn.com\/group37\/M08\/A7\/1E\/wKgJoVpCKV-g3tO9AAAJfR8p-Ok553.png",
+          "isDisplayCornerMark" : false,
+          "itemType" : 0,
+          "itemDetail" : {
+            "categoryId" : 42,
+            "title" : "品牌之声",
+            "moduleType" : 0,
+            "categoryType" : 1,
+            "filterSupported" : true,
+            "name" : "brand"
+          }
+        },
+        {
+          "coverPath" : "http:\/\/fdfs.xmcdn.com\/group36\/M0A\/27\/F7\/wKgJTVpCKX-TSnqDAAAGuSpiO4Q420.png",
+          "isDisplayCornerMark" : false,
+          "itemType" : 0,
+          "itemDetail" : {
+            "name" : "3Dfeel2",
+            "moduleType" : 0,
+            "categoryType" : 1,
+            "filterSupported" : true,
+            "title" : "3D体验馆",
+            "categoryId" : 29
+          }
+        },
+        {
+          "coverPath" : "http:\/\/fdfs.xmcdn.com\/group36\/M0A\/27\/FA\/wKgJTVpCKZCxFElnAAAE8TkJ3O4683.png",
+          "isDisplayCornerMark" : false,
+          "itemType" : 0,
+          "itemDetail" : {
+            "title" : "名校公开课",
+            "name" : "openclass2",
+            "filterSupported" : true,
+            "categoryId" : 30,
+            "categoryType" : 1,
+            "moduleType" : 0
+          }
+        },
+        {
+          "coverPath" : "http:\/\/fdfs.xmcdn.com\/group36\/M06\/DA\/39\/wKgJUlpCKauCeD55AAAGf4DHMFY113.png",
+          "isDisplayCornerMark" : false,
+          "itemType" : 0,
+          "itemDetail" : {
+            "categoryType" : 1,
+            "name" : "locallisten",
+            "title" : "听上海",
+            "moduleType" : 1,
+            "filterSupported" : true,
+            "categoryId" : 37
+          }
+        },
+        {
+          "coverPath" : "http:\/\/fdfs.xmcdn.com\/group37\/M01\/A7\/24\/wKgJoVpCKbrhSVQJAAAEyUawoOU997.png",
+          "isDisplayCornerMark" : false,
+          "itemType" : 0,
+          "itemDetail" : {
+            "categoryId" : 43,
+            "moduleType" : 3,
+            "filterSupported" : true,
+            "categoryType" : 1,
+            "name" : "lamia",
+            "title" : "直播"
+          }
+        },
+        {
+          "coverPath" : "http:\/\/fdfs.xmcdn.com\/group37\/M01\/A7\/26\/wKgJoFpCKdLQF4GhAAAM_178ooU875.png",
+          "isDisplayCornerMark" : false,
+          "itemType" : 0,
+          "itemDetail" : {
+            "filterSupported" : true,
+            "name" : "qiche",
+            "categoryType" : 0,
+            "title" : "汽车",
+            "categoryId" : 21
+          }
+        },
+        {
+          "coverPath" : "http:\/\/fdfs.xmcdn.com\/group44\/M0A\/45\/CC\/wKgKkVsPii_SY9OCAAAfhx2JLVg809.jpg",
+          "isDisplayCornerMark" : false,
+          "itemType" : 0,
+          "itemDetail" : {
+            "categoryId" : 59,
+            "categoryType" : 1,
+            "moduleType" : 0,
+            "title" : "艺术",
+            "filterSupported" : true,
+            "name" : "art"
+          }
+        },
+        {
+          "coverPath" : "http:\/\/fdfs.xmcdn.com\/group44\/M0A\/36\/B4\/wKgKjFsflP2jJcK6AAAHkyvbsto046.png",
+          "isDisplayCornerMark" : false,
+          "itemType" : 0,
+          "itemDetail" : {
+            "name" : "opera",
+            "filterSupported" : true,
+            "title" : "戏曲",
+            "categoryId" : 16,
+            "categoryType" : 0
+          }
+        }
+      ],
+      "groupName" : "特色",
+      "displayStyleType" : 1
+    }
+  ]
+}

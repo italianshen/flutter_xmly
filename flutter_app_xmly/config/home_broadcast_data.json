@@ -1,0 +1,514 @@
+{
+  "ret" : 0,
+  "data" : {
+    "categories" : [
+      {
+        "name" : "新闻台",
+        "id" : 5
+      },
+      {
+        "name" : "音乐台",
+        "id" : 14
+      },
+      {
+        "name" : "交通台",
+        "id" : 1
+      },
+      {
+        "name" : "经济台",
+        "id" : 11
+      },
+      {
+        "name" : "体育台",
+        "id" : 2
+      },
+      {
+        "name" : "文艺台",
+        "id" : 4
+      },
+      {
+        "name" : "曲艺台",
+        "id" : 8
+      },
+      {
+        "name" : "综合台",
+        "id" : 12
+      },
+      {
+        "name" : "方言台",
+        "id" : 6
+      },
+      {
+        "name" : "外语台",
+        "id" : 3
+      },
+      {
+        "id" : 10,
+        "name" : "生活台"
+      },
+      {
+        "id" : 13,
+        "name" : "都市台"
+      },
+      {
+        "id" : 7,
+        "name" : "旅游台"
+      },
+      {
+        "id" : 15,
+        "name" : "其他台"
+      }
+    ],
+    "location" : "深圳",
+    "localRadios" : [
+      {
+        "id" : 248,
+        "programName" : "《打开车窗说亮话》",
+        "coverSmall" : "http:\/\/imagev2.xmcdn.com\/group46\/M06\/BF\/8F\/wKgKj1tsFdrACtzVAAC3KENsQdo238.jpg!op_type=3&columns=60&rows=60",
+        "programId" : 180822,
+        "playCount" : 3748526,
+        "programScheduleId" : 285377,
+        "name" : "广东羊城交通台",
+        "coverLarge" : "http:\/\/imagev2.xmcdn.com\/group46\/M06\/BF\/8F\/wKgKj1tsFdrACtzVAAC3KENsQdo238.jpg!op_type=3&columns=640&rows=640",
+        "playUrl" : {
+          "ts64" : "http:\/\/live.xmcdn.com\/live\/248\/64.m3u8?transcode=ts",
+          "ts24" : "http:\/\/live.xmcdn.com\/live\/248\/24.m3u8?transcode=ts",
+          "aac64" : "http:\/\/live.xmcdn.com\/live\/248\/64.m3u8",
+          "aac24" : "http:\/\/live.xmcdn.com\/live\/248\/24.m3u8"
+        },
+        "publish" : true,
+        "fmUid" : 23639283
+      },
+      {
+        "id" : 74,
+        "programName" : "二口不同声",
+        "coverSmall" : "http:\/\/imagev2.xmcdn.com\/group28\/M04\/2F\/AC\/wKgJSFkxP-Cx44f7AAARh9J2GYQ127.jpg!op_type=3&columns=60&rows=60",
+        "programId" : 156477,
+        "playCount" : 8976486,
+        "programScheduleId" : 142298,
+        "name" : "广东音乐之声",
+        "coverLarge" : "http:\/\/imagev2.xmcdn.com\/group28\/M04\/2F\/AC\/wKgJSFkxP-Cx44f7AAARh9J2GYQ127.jpg!op_type=3&columns=640&rows=640",
+        "playUrl" : {
+          "ts64" : "http:\/\/live.xmcdn.com\/live\/74\/64.m3u8?transcode=ts",
+          "ts24" : "http:\/\/live.xmcdn.com\/live\/74\/24.m3u8?transcode=ts",
+          "aac64" : "http:\/\/live.xmcdn.com\/live\/74\/64.m3u8",
+          "aac24" : "http:\/\/live.xmcdn.com\/live\/74\/24.m3u8"
+        },
+        "publish" : true,
+        "fmUid" : 23639163
+      },
+      {
+        "id" : 252,
+        "programName" : "拉阔星空",
+        "coverSmall" : "http:\/\/imagev2.xmcdn.com\/group29\/M06\/2D\/33\/wKgJWVkxQcyBbNqLAAA-XqyOhj4290.jpg!op_type=3&columns=60&rows=60",
+        "programId" : 56409,
+        "playCount" : 5338605,
+        "programScheduleId" : 78085,
+        "name" : "广东珠江经济电台",
+        "coverLarge" : "http:\/\/imagev2.xmcdn.com\/group29\/M06\/2D\/33\/wKgJWVkxQcyBbNqLAAA-XqyOhj4290.jpg!op_type=3&columns=640&rows=640",
+        "playUrl" : {
+          "ts64" : "http:\/\/live.xmcdn.com\/live\/252\/64.m3u8?transcode=ts",
+          "ts24" : "http:\/\/live.xmcdn.com\/live\/252\/24.m3u8?transcode=ts",
+          "aac64" : "http:\/\/live.xmcdn.com\/live\/252\/64.m3u8",
+          "aac24" : "http:\/\/live.xmcdn.com\/live\/252\/24.m3u8"
+        },
+        "publish" : true,
+        "fmUid" : 23639289
+      }
+    ],
+    "topRadios" : [
+      {
+        "id" : 1065,
+        "playCount" : 191261821,
+        "programScheduleId" : 5266,
+        "coverLarge" : "http:\/\/imagev2.xmcdn.com\/group28\/M0A\/30\/28\/wKgJSFkxRX-ALd8CAABn8GON2wI634.jpg!op_type=3&columns=640&rows=640",
+        "publish" : true,
+        "playUrl" : {
+          "ts64" : "http:\/\/live.xmcdn.com\/live\/1065\/64.m3u8?transcode=ts",
+          "ts24" : "http:\/\/live.xmcdn.com\/live\/1065\/24.m3u8?transcode=ts",
+          "aac64" : "http:\/\/live.xmcdn.com\/live\/1065\/64.m3u8",
+          "aac24" : "http:\/\/live.xmcdn.com\/live\/1065\/24.m3u8"
+        },
+        "programName" : "央广夜新闻",
+        "fmUid" : 19414524,
+        "coverSmall" : "http:\/\/imagev2.xmcdn.com\/group28\/M0A\/30\/28\/wKgJSFkxRX-ALd8CAABn8GON2wI634.jpg!op_type=3&columns=60&rows=60",
+        "programId" : 45791,
+        "name" : "中国之声"
+      },
+      {
+        "id" : 966,
+        "playCount" : 10530044,
+        "programScheduleId" : 116037,
+        "coverLarge" : "http:\/\/imagev2.xmcdn.com\/group15\/M01\/89\/3F\/wKgDaFYnPe6xmyl_AAKlpbQf1VQ779.png!op_type=3&columns=640&rows=640",
+        "publish" : true,
+        "playUrl" : {
+          "ts64" : "http:\/\/live.xmcdn.com\/live\/966\/64.m3u8?transcode=ts",
+          "ts24" : "http:\/\/live.xmcdn.com\/live\/966\/24.m3u8?transcode=ts",
+          "aac64" : "http:\/\/live.xmcdn.com\/live\/966\/64.m3u8",
+          "aac24" : "http:\/\/live.xmcdn.com\/live\/966\/24.m3u8"
+        },
+        "programName" : "风后随雪夜",
+        "fmUid" : 24414283,
+        "coverSmall" : "http:\/\/imagev2.xmcdn.com\/group15\/M01\/89\/3F\/wKgDaFYnPe6xmyl_AAKlpbQf1VQ779.png!op_type=3&columns=60&rows=60",
+        "programId" : 99729,
+        "name" : "怀集音乐之声"
+      },
+      {
+        "id" : 1040,
+        "playCount" : 42099019,
+        "programScheduleId" : 3769,
+        "coverLarge" : "http:\/\/imagev2.xmcdn.com\/group6\/M03\/A8\/DD\/wKgDhFUKixLyR_tyAABxZ5RFmbM821.png!op_type=3&columns=640&rows=640",
+        "publish" : true,
+        "playUrl" : {
+          "ts64" : "http:\/\/live.xmcdn.com\/live\/1040\/64.m3u8?transcode=ts",
+          "ts24" : "http:\/\/live.xmcdn.com\/live\/1040\/24.m3u8?transcode=ts",
+          "aac64" : "http:\/\/live.xmcdn.com\/live\/1040\/64.m3u8",
+          "aac24" : "http:\/\/live.xmcdn.com\/live\/1040\/24.m3u8"
+        },
+        "programName" : "档案揭秘(重播）",
+        "fmUid" : 23640046,
+        "coverSmall" : "http:\/\/imagev2.xmcdn.com\/group6\/M03\/A8\/DD\/wKgDhFUKixLyR_tyAABxZ5RFmbM821.png!op_type=3&columns=60&rows=60",
+        "programId" : 97257,
+        "name" : "CRI环球资讯"
+      },
+      {
+        "id" : 1066,
+        "playCount" : 61183301,
+        "programScheduleId" : 302590,
+        "coverLarge" : "http:\/\/imagev2.xmcdn.com\/group28\/M0A\/30\/29\/wKgJSFkxRYGDCbimAADGj2hAjb0694.jpg!op_type=3&columns=640&rows=640",
+        "publish" : true,
+        "playUrl" : {
+          "ts64" : "http:\/\/live.xmcdn.com\/live\/1066\/64.m3u8?transcode=ts",
+          "ts24" : "http:\/\/live.xmcdn.com\/live\/1066\/24.m3u8?transcode=ts",
+          "aac64" : "http:\/\/live.xmcdn.com\/live\/1066\/64.m3u8",
+          "aac24" : "http:\/\/live.xmcdn.com\/live\/1066\/24.m3u8"
+        },
+        "programName" : "每当夜晚来临的时候",
+        "fmUid" : 23640064,
+        "coverSmall" : "http:\/\/imagev2.xmcdn.com\/group28\/M0A\/30\/29\/wKgJSFkxRYGDCbimAADGj2hAjb0694.jpg!op_type=3&columns=60&rows=60",
+        "programId" : 128683,
+        "name" : "CNR经济之声"
+      },
+      {
+        "id" : 95,
+        "playCount" : 5812083,
+        "programScheduleId" : 230019,
+        "coverLarge" : "http:\/\/imagev2.xmcdn.com\/group29\/M0B\/2D\/15\/wKgJWVkxP-7wIPZUAABRqWHVL_g511.jpg!op_type=3&columns=640&rows=640",
+        "publish" : true,
+        "playUrl" : {
+          "ts64" : "http:\/\/live.xmcdn.com\/live\/95\/64.m3u8?transcode=ts",
+          "ts24" : "http:\/\/live.xmcdn.com\/live\/95\/24.m3u8?transcode=ts",
+          "aac64" : "http:\/\/live.xmcdn.com\/live\/95\/64.m3u8",
+          "aac24" : "http:\/\/live.xmcdn.com\/live\/95\/24.m3u8"
+        },
+        "programName" : "男左女右",
+        "fmUid" : 23639180,
+        "coverSmall" : "http:\/\/imagev2.xmcdn.com\/group29\/M0B\/2D\/15\/wKgJWVkxP-7wIPZUAABRqWHVL_g511.jpg!op_type=3&columns=60&rows=60",
+        "programId" : 166703,
+        "name" : "北京音乐广播"
+      },
+      {
+        "id" : 58,
+        "playCount" : 4664244,
+        "programScheduleId" : 106213,
+        "coverLarge" : "http:\/\/imagev2.xmcdn.com\/group57\/M09\/9F\/D7\/wKgLd1xmRsOBPsFTAAAb7w_mHh8009.jpg!op_type=3&columns=640&rows=640",
+        "publish" : true,
+        "playUrl" : {
+          "ts64" : "http:\/\/live.xmcdn.com\/live\/58\/64.m3u8?transcode=ts",
+          "ts24" : "http:\/\/live.xmcdn.com\/live\/58\/24.m3u8?transcode=ts",
+          "aac64" : "http:\/\/live.xmcdn.com\/live\/58\/64.m3u8",
+          "aac24" : "http:\/\/live.xmcdn.com\/live\/58\/24.m3u8"
+        },
+        "programName" : "新闻编辑室",
+        "fmUid" : 23639145,
+        "coverSmall" : "http:\/\/imagev2.xmcdn.com\/group57\/M09\/9F\/D7\/wKgLd1xmRsOBPsFTAAAb7w_mHh8009.jpg!op_type=3&columns=60&rows=60",
+        "programId" : 153168,
+        "name" : "上海新闻广播"
+      },
+      {
+        "id" : 52,
+        "playCount" : 12350560,
+        "programScheduleId" : 65976,
+        "coverLarge" : "http:\/\/imagev2.xmcdn.com\/group57\/M00\/A0\/14\/wKgLgVxmR57DN7uYAAAvBRc10mM773.jpg!op_type=3&columns=640&rows=640",
+        "publish" : true,
+        "playUrl" : {
+          "ts64" : "http:\/\/live.xmcdn.com\/live\/52\/64.m3u8?transcode=ts",
+          "ts24" : "http:\/\/live.xmcdn.com\/live\/52\/24.m3u8?transcode=ts",
+          "aac64" : "http:\/\/live.xmcdn.com\/live\/52\/64.m3u8",
+          "aac24" : "http:\/\/live.xmcdn.com\/live\/52\/24.m3u8"
+        },
+        "programName" : "新闻编辑室",
+        "fmUid" : 23639140,
+        "coverSmall" : "http:\/\/imagev2.xmcdn.com\/group57\/M00\/A0\/14\/wKgLgVxmR57DN7uYAAAvBRc10mM773.jpg!op_type=3&columns=60&rows=60",
+        "programId" : 152990,
+        "name" : "上海东广新闻台"
+      },
+      {
+        "id" : 248,
+        "playCount" : 3748526,
+        "programScheduleId" : 285377,
+        "coverLarge" : "http:\/\/imagev2.xmcdn.com\/group46\/M06\/BF\/8F\/wKgKj1tsFdrACtzVAAC3KENsQdo238.jpg!op_type=3&columns=640&rows=640",
+        "publish" : true,
+        "playUrl" : {
+          "ts64" : "http:\/\/live.xmcdn.com\/live\/248\/64.m3u8?transcode=ts",
+          "ts24" : "http:\/\/live.xmcdn.com\/live\/248\/24.m3u8?transcode=ts",
+          "aac64" : "http:\/\/live.xmcdn.com\/live\/248\/64.m3u8",
+          "aac24" : "http:\/\/live.xmcdn.com\/live\/248\/24.m3u8"
+        },
+        "programName" : "《打开车窗说亮话》",
+        "fmUid" : 23639283,
+        "coverSmall" : "http:\/\/imagev2.xmcdn.com\/group46\/M06\/BF\/8F\/wKgKj1tsFdrACtzVAAC3KENsQdo238.jpg!op_type=3&columns=60&rows=60",
+        "programId" : 180822,
+        "name" : "广东羊城交通台"
+      },
+      {
+        "id" : 328,
+        "playCount" : 3490311,
+        "programScheduleId" : 146592,
+        "coverLarge" : "http:\/\/imagev2.xmcdn.com\/group51\/M06\/B1\/81\/wKgKnlvb6jCARpctAAAtiyO9IsY669.jpg!op_type=3&columns=640&rows=640",
+        "publish" : true,
+        "playUrl" : {
+          "ts64" : "http:\/\/live.xmcdn.com\/live\/328\/64.m3u8?transcode=ts",
+          "ts24" : "http:\/\/live.xmcdn.com\/live\/328\/24.m3u8?transcode=ts",
+          "aac64" : "http:\/\/live.xmcdn.com\/live\/328\/64.m3u8",
+          "aac24" : "http:\/\/live.xmcdn.com\/live\/328\/24.m3u8"
+        },
+        "programName" : "1045评书连播",
+        "fmUid" : 23639358,
+        "coverSmall" : "http:\/\/imagev2.xmcdn.com\/group51\/M06\/B1\/81\/wKgKnlvb6jCARpctAAAtiyO9IsY669.jpg!op_type=3&columns=60&rows=60",
+        "programId" : 82569,
+        "name" : "沈阳新闻广播"
+      },
+      {
+        "id" : 74,
+        "playCount" : 8976486,
+        "programScheduleId" : 142298,
+        "coverLarge" : "http:\/\/imagev2.xmcdn.com\/group28\/M04\/2F\/AC\/wKgJSFkxP-Cx44f7AAARh9J2GYQ127.jpg!op_type=3&columns=640&rows=640",
+        "publish" : true,
+        "playUrl" : {
+          "ts64" : "http:\/\/live.xmcdn.com\/live\/74\/64.m3u8?transcode=ts",
+          "ts24" : "http:\/\/live.xmcdn.com\/live\/74\/24.m3u8?transcode=ts",
+          "aac64" : "http:\/\/live.xmcdn.com\/live\/74\/64.m3u8",
+          "aac24" : "http:\/\/live.xmcdn.com\/live\/74\/24.m3u8"
+        },
+        "programName" : "二口不同声",
+        "fmUid" : 23639163,
+        "coverSmall" : "http:\/\/imagev2.xmcdn.com\/group28\/M04\/2F\/AC\/wKgJSFkxP-Cx44f7AAARh9J2GYQ127.jpg!op_type=3&columns=60&rows=60",
+        "programId" : 156477,
+        "name" : "广东音乐之声"
+      },
+      {
+        "id" : 257,
+        "playCount" : 1237618,
+        "programScheduleId" : 78418,
+        "coverLarge" : "http:\/\/imagev2.xmcdn.com\/group29\/M06\/2C\/D7\/wKgJXVkxQdCi7tjrAABDKpTKNrA884.jpg!op_type=3&columns=640&rows=640",
+        "publish" : true,
+        "playUrl" : {
+          "ts64" : "http:\/\/live.xmcdn.com\/live\/257\/64.m3u8?transcode=ts",
+          "ts24" : "http:\/\/live.xmcdn.com\/live\/257\/24.m3u8?transcode=ts",
+          "aac64" : "http:\/\/live.xmcdn.com\/live\/257\/64.m3u8",
+          "aac24" : "http:\/\/live.xmcdn.com\/live\/257\/24.m3u8"
+        },
+        "programName" : "粤夜越动听",
+        "fmUid" : 23639293,
+        "coverSmall" : "http:\/\/imagev2.xmcdn.com\/group29\/M06\/2C\/D7\/wKgJXVkxQdCi7tjrAABDKpTKNrA884.jpg!op_type=3&columns=60&rows=60",
+        "programId" : 84287,
+        "name" : "广州汽车音乐电台"
+      },
+      {
+        "id" : 132,
+        "playCount" : 2660375,
+        "programScheduleId" : 295496,
+        "coverLarge" : "http:\/\/imagev2.xmcdn.com\/group46\/M05\/2D\/ED\/wKgKllthV0fSCPxyAAC0jKPiqnE534.jpg!op_type=3&columns=640&rows=640",
+        "publish" : true,
+        "playUrl" : {
+          "ts64" : "http:\/\/live.xmcdn.com\/live\/132\/64.m3u8?transcode=ts",
+          "ts24" : "http:\/\/live.xmcdn.com\/live\/132\/24.m3u8?transcode=ts",
+          "aac64" : "http:\/\/live.xmcdn.com\/live\/132\/64.m3u8",
+          "aac24" : "http:\/\/live.xmcdn.com\/live\/132\/24.m3u8"
+        },
+        "programName" : "《午夜星空下》",
+        "fmUid" : 23639209,
+        "coverSmall" : "http:\/\/imagev2.xmcdn.com\/group46\/M05\/2D\/ED\/wKgKllthV0fSCPxyAAC0jKPiqnE534.jpg!op_type=3&columns=60&rows=60",
+        "programId" : 181600,
+        "name" : "938重庆私家车广播"
+      },
+      {
+        "id" : 252,
+        "playCount" : 5338605,
+        "programScheduleId" : 78085,
+        "coverLarge" : "http:\/\/imagev2.xmcdn.com\/group29\/M06\/2D\/33\/wKgJWVkxQcyBbNqLAAA-XqyOhj4290.jpg!op_type=3&columns=640&rows=640",
+        "publish" : true,
+        "playUrl" : {
+          "ts64" : "http:\/\/live.xmcdn.com\/live\/252\/64.m3u8?transcode=ts",
+          "ts24" : "http:\/\/live.xmcdn.com\/live\/252\/24.m3u8?transcode=ts",
+          "aac64" : "http:\/\/live.xmcdn.com\/live\/252\/64.m3u8",
+          "aac24" : "http:\/\/live.xmcdn.com\/live\/252\/24.m3u8"
+        },
+        "programName" : "拉阔星空",
+        "fmUid" : 23639289,
+        "coverSmall" : "http:\/\/imagev2.xmcdn.com\/group29\/M06\/2D\/33\/wKgJWVkxQcyBbNqLAAA-XqyOhj4290.jpg!op_type=3&columns=60&rows=60",
+        "programId" : 56409,
+        "name" : "广东珠江经济电台"
+      },
+      {
+        "id" : 1011,
+        "playCount" : 18973576,
+        "programScheduleId" : 220275,
+        "coverLarge" : "http:\/\/imagev2.xmcdn.com\/group59\/M05\/D6\/46\/wKgLelzrtgzT1Jz3AACm8v-tFoA271.png!op_type=3&columns=640&rows=640",
+        "publish" : false,
+        "playUrl" : {
+          "ts64" : "http:\/\/live.xmcdn.com\/live\/1011\/64.m3u8?transcode=ts",
+          "ts24" : "http:\/\/live.xmcdn.com\/live\/1011\/24.m3u8?transcode=ts",
+          "aac64" : "http:\/\/live.xmcdn.com\/live\/1011\/64.m3u8",
+          "aac24" : "http:\/\/live.xmcdn.com\/live\/1011\/24.m3u8"
+        },
+        "programName" : "音乐爱上夜",
+        "fmUid" : 1002118,
+        "coverSmall" : "http:\/\/imagev2.xmcdn.com\/group59\/M05\/D6\/46\/wKgLelzrtgzT1Jz3AACm8v-tFoA271.png!op_type=3&columns=60&rows=60",
+        "programId" : 129207,
+        "name" : "清晨音乐台"
+      },
+      {
+        "id" : 12,
+        "playCount" : 42238399,
+        "programScheduleId" : 289209,
+        "coverLarge" : "http:\/\/imagev2.xmcdn.com\/group29\/M09\/2C\/B3\/wKgJXVkxP7WQXy7eAAD06SSV5o4837.jpg!op_type=3&columns=640&rows=640",
+        "publish" : true,
+        "playUrl" : {
+          "ts64" : "http:\/\/live.xmcdn.com\/live\/12\/64.m3u8?transcode=ts",
+          "ts24" : "http:\/\/live.xmcdn.com\/live\/12\/24.m3u8?transcode=ts",
+          "aac64" : "http:\/\/live.xmcdn.com\/live\/12\/64.m3u8",
+          "aac24" : "http:\/\/live.xmcdn.com\/live\/12\/24.m3u8"
+        },
+        "programName" : "音乐万岁",
+        "fmUid" : 23639121,
+        "coverSmall" : "http:\/\/imagev2.xmcdn.com\/group29\/M09\/2C\/B3\/wKgJXVkxP7WQXy7eAAD06SSV5o4837.jpg!op_type=3&columns=60&rows=60",
+        "programId" : 45833,
+        "name" : "CNR音乐之声"
+      },
+      {
+        "id" : 93,
+        "playCount" : 16902578,
+        "programScheduleId" : 144271,
+        "coverLarge" : "http:\/\/imagev2.xmcdn.com\/group29\/M0B\/2D\/15\/wKgJWVkxP-zQEbcOAABaJo-b_eQ042.jpg!op_type=3&columns=640&rows=640",
+        "publish" : true,
+        "playUrl" : {
+          "ts64" : "http:\/\/live.xmcdn.com\/live\/93\/64.m3u8?transcode=ts",
+          "ts24" : "http:\/\/live.xmcdn.com\/live\/93\/24.m3u8?transcode=ts",
+          "aac64" : "http:\/\/live.xmcdn.com\/live\/93\/64.m3u8",
+          "aac24" : "http:\/\/live.xmcdn.com\/live\/93\/24.m3u8"
+        },
+        "programName" : "十点谈心",
+        "fmUid" : 23639177,
+        "coverSmall" : "http:\/\/imagev2.xmcdn.com\/group29\/M0B\/2D\/15\/wKgJWVkxP-zQEbcOAABaJo-b_eQ042.jpg!op_type=3&columns=60&rows=60",
+        "programId" : 173745,
+        "name" : "北京交通广播"
+      },
+      {
+        "id" : 102,
+        "playCount" : 7636009,
+        "programScheduleId" : 76612,
+        "coverLarge" : "http:\/\/imagev2.xmcdn.com\/group65\/M07\/D9\/71\/wKgMal1t3hOACk4qAAFBlFKuzoo119.jpg!op_type=3&columns=640&rows=640",
+        "publish" : true,
+        "playUrl" : {
+          "ts64" : "http:\/\/live.xmcdn.com\/live\/102\/64.m3u8?transcode=ts",
+          "ts24" : "http:\/\/live.xmcdn.com\/live\/102\/24.m3u8?transcode=ts",
+          "aac64" : "http:\/\/live.xmcdn.com\/live\/102\/64.m3u8",
+          "aac24" : "http:\/\/live.xmcdn.com\/live\/102\/24.m3u8"
+        },
+        "programName" : "音乐在旅途",
+        "fmUid" : 23639187,
+        "coverSmall" : "http:\/\/imagev2.xmcdn.com\/group65\/M07\/D9\/71\/wKgMal1t3hOACk4qAAFBlFKuzoo119.jpg!op_type=3&columns=60&rows=60",
+        "programId" : 44519,
+        "name" : "北京怀旧金曲"
+      },
+      {
+        "id" : 131,
+        "playCount" : 862081,
+        "programScheduleId" : 297972,
+        "coverLarge" : "http:\/\/imagev2.xmcdn.com\/group53\/M07\/5B\/F0\/wKgLfFwPG1Oy5N-WAALw7bXOr6Q255.jpg!op_type=3&columns=640&rows=640",
+        "publish" : true,
+        "playUrl" : {
+          "ts64" : "http:\/\/live.xmcdn.com\/live\/131\/64.m3u8?transcode=ts",
+          "ts24" : "http:\/\/live.xmcdn.com\/live\/131\/24.m3u8?transcode=ts",
+          "aac64" : "http:\/\/live.xmcdn.com\/live\/131\/64.m3u8",
+          "aac24" : "http:\/\/live.xmcdn.com\/live\/131\/24.m3u8"
+        },
+        "programName" : "音乐梦花园",
+        "fmUid" : 23639208,
+        "coverSmall" : "http:\/\/imagev2.xmcdn.com\/group53\/M07\/5B\/F0\/wKgLfFwPG1Oy5N-WAALw7bXOr6Q255.jpg!op_type=3&columns=60&rows=60",
+        "programId" : 177935,
+        "name" : "重庆音乐广播"
+      },
+      {
+        "id" : 301,
+        "playCount" : 1301505,
+        "programScheduleId" : 105563,
+        "coverLarge" : "http:\/\/imagev2.xmcdn.com\/group13\/M07\/3E\/3D\/wKgDXVWfbCrQLMBHAACIkfWS0PY190.png!op_type=3&columns=640&rows=640",
+        "publish" : true,
+        "playUrl" : {
+          "ts64" : "http:\/\/live.xmcdn.com\/live\/301\/64.m3u8?transcode=ts",
+          "ts24" : "http:\/\/live.xmcdn.com\/live\/301\/24.m3u8?transcode=ts",
+          "aac64" : "http:\/\/live.xmcdn.com\/live\/301\/64.m3u8",
+          "aac24" : "http:\/\/live.xmcdn.com\/live\/301\/24.m3u8"
+        },
+        "programName" : "李青的小夜曲",
+        "fmUid" : 23639332,
+        "coverSmall" : "http:\/\/imagev2.xmcdn.com\/group13\/M07\/3E\/3D\/wKgDXVWfbCrQLMBHAACIkfWS0PY190.png!op_type=3&columns=60&rows=60",
+        "programId" : 76865,
+        "name" : "FM950广西音乐台"
+      },
+      {
+        "id" : 429,
+        "playCount" : 3494123,
+        "programScheduleId" : 49083,
+        "coverLarge" : "http:\/\/imagev2.xmcdn.com\/group29\/M09\/2D\/45\/wKgJWVkxQpDAi2FtAABDP9lJKDI506.jpg!op_type=3&columns=640&rows=640",
+        "publish" : true,
+        "playUrl" : {
+          "ts64" : "http:\/\/live.xmcdn.com\/live\/429\/64.m3u8?transcode=ts",
+          "ts24" : "http:\/\/live.xmcdn.com\/live\/429\/24.m3u8?transcode=ts",
+          "aac64" : "http:\/\/live.xmcdn.com\/live\/429\/64.m3u8",
+          "aac24" : "http:\/\/live.xmcdn.com\/live\/429\/24.m3u8"
+        },
+        "programName" : "相约好时光",
+        "fmUid" : 23639455,
+        "coverSmall" : "http:\/\/imagev2.xmcdn.com\/group29\/M09\/2D\/45\/wKgJWVkxQpDAi2FtAABDP9lJKDI506.jpg!op_type=3&columns=60&rows=60",
+        "programId" : 79061,
+        "name" : "吉林新闻综合广播"
+      }
+    ],
+    "radioSquareResults" : [
+      {
+        "icon" : "http:\/\/fdfs.xmcdn.com\/group48\/M06\/36\/AE\/wKgKlVuWO1KRcnTaAAAR10UiT9U470.png",
+        "title" : "本地台",
+        "id" : 1,
+        "uri" : "iting:\/\/open?msg_type=70&api=http:\/\/live.ximalaya.com\/live-web\/v2\/radio\/province&title=本地台&type=local"
+      },
+      {
+        "icon" : "http:\/\/fdfs.xmcdn.com\/group59\/M04\/58\/D9\/wKgLely9NqSiWvMkAAA6q9nTwEo380.png",
+        "title" : "国家台",
+        "id" : 2,
+        "uri" : "iting:\/\/open?msg_type=70&api=http:\/\/live.ximalaya.com\/live-web\/v2\/radio\/national&title=国家台&type=national"
+      },
+      {
+        "icon" : "http:\/\/fdfs.xmcdn.com\/group45\/M09\/FA\/44\/wKgKjluWO3GyDXAhAAAQNhHfzwY664.png",
+        "title" : "省市台",
+        "id" : 3,
+        "uri" : "iting:\/\/open?msg_type=71"
+      },
+      {
+        "icon" : "http:\/\/fdfs.xmcdn.com\/group45\/M00\/CF\/C0\/wKgKlFuWO37ygDi1AAAUO10srvM175.png",
+        "title" : "网络台",
+        "id" : 4,
+        "uri" : "iting:\/\/open?msg_type=70&api=http:\/\/live.ximalaya.com\/live-web\/v2\/radio\/network&title=网络台&type=network"
+      },
+      {
+        "icon" : "http:\/\/fdfs.xmcdn.com\/group46\/M05\/E8\/9E\/wKgKlluWO4ziHcoEAAAQjZPt_-4034.png",
+        "title" : "主播直播",
+        "id" : 5,
+        "uri" : "iting:\/\/open?msg_type=53&open_type=1"
+      }
+    ]
+  }
+}

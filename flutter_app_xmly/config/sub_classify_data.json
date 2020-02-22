@@ -1,0 +1,127 @@
+{
+  "keywords" : [
+    {
+      "categoryId" : 49,
+      "keywordId" : 231,
+      "keywordType" : 1,
+      "keywordName" : "言情",
+      "realCategoryId" : 3
+    },
+    {
+      "categoryId" : 49,
+      "keywordId" : 232,
+      "keywordType" : 1,
+      "keywordName" : "悬疑",
+      "realCategoryId" : 3
+    },
+    {
+      "categoryId" : 49,
+      "keywordId" : 235,
+      "keywordType" : 1,
+      "keywordName" : "都市",
+      "realCategoryId" : 3
+    },
+    {
+      "categoryId" : 49,
+      "keywordId" : 233,
+      "keywordType" : 1,
+      "keywordName" : "幻想",
+      "realCategoryId" : 3
+    },
+    {
+      "categoryId" : 49,
+      "keywordId" : 238,
+      "keywordType" : 1,
+      "keywordName" : "武侠",
+      "realCategoryId" : 3
+    },
+    {
+      "categoryId" : 49,
+      "keywordId" : 234,
+      "keywordType" : 1,
+      "keywordName" : "历史",
+      "realCategoryId" : 3
+    },
+    {
+      "categoryId" : 49,
+      "keywordId" : 346,
+      "keywordType" : 1,
+      "keywordName" : "女生最爱",
+      "realCategoryId" : 3
+    },
+    {
+      "categoryId" : 49,
+      "keywordId" : 348,
+      "keywordType" : 1,
+      "keywordName" : "男生最爱",
+      "realCategoryId" : 3
+    },
+    {
+      "categoryId" : 49,
+      "keywordId" : 1449,
+      "keywordType" : 1,
+      "keywordName" : "宅家听书指南",
+      "realCategoryId" : 3
+    },
+    {
+      "categoryId" : 49,
+      "keywordId" : 1054,
+      "keywordType" : 1,
+      "keywordName" : "多人剧",
+      "realCategoryId" : 3
+    },
+    {
+      "categoryId" : 49,
+      "keywordId" : 1069,
+      "keywordType" : 1,
+      "keywordName" : "爆更小说",
+      "realCategoryId" : 3
+    },
+    {
+      "categoryId" : 49,
+      "keywordId" : 1055,
+      "keywordType" : 1,
+      "keywordName" : "会员有声小说",
+      "realCategoryId" : 3
+    },
+    {
+      "categoryId" : 49,
+      "keywordId" : 22,
+      "keywordType" : 1,
+      "keywordName" : "QQ阅读",
+      "realCategoryId" : 3
+    },
+    {
+      "categoryId" : 49,
+      "keywordId" : 1264,
+      "keywordType" : 1,
+      "keywordName" : "王牌强档",
+      "realCategoryId" : 3
+    },
+    {
+      "categoryId" : 49,
+      "keywordId" : 984,
+      "keywordType" : 1,
+      "keywordName" : "纵横文学",
+      "realCategoryId" : 3
+    },
+    {
+      "categoryId" : 49,
+      "keywordId" : 986,
+      "keywordType" : 1,
+      "keywordName" : "逐浪小说",
+      "realCategoryId" : 3
+    }
+  ],
+  "msg" : "0",
+  "ret" : 0,
+  "categoryInfo" : {
+    "title" : "有声小说",
+    "moduleType" : 9,
+    "filterSupported" : false,
+    "categoryType" : 1,
+    "contentType" : "album",
+    "name" : "audio-novel"
+  },
+  "gender" : "unknown"
+}

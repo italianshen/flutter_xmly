@@ -1,0 +1,118 @@
+{
+  "data" : {
+    "multidimensionalRankVos" : [
+      {
+        "dimensionType" : 0,
+        "ranks" : [
+          {
+            "coverSmall" : "http:\/\/imagev2.xmcdn.com\/group77\/M0A\/0B\/2F\/wKgO1V5GPKuhtYfcAAOWgns3RR8679.jpg!op_type=3&columns=86&rows=86",
+            "uid" : 102262716,
+            "nickname" : "顾轻舟_Koln"
+          },
+          {
+            "coverSmall" : "http:\/\/imagev2.xmcdn.com\/group59\/M06\/EF\/4B\/wKgLelzs136CDWi0AADbZGStYuI154.jpg!op_type=3&columns=86&rows=86",
+            "uid" : 118955471,
+            "nickname" : "Cc丶_"
+          },
+          {
+            "coverSmall" : "http:\/\/imagev2.xmcdn.com\/group69\/M02\/D5\/BC\/wKgMb13iW6nibVdgAAAkbkRtppc72.jpeg!op_type=3&columns=86&rows=86",
+            "uid" : 39745073,
+            "nickname" : "清澈_唬头Bng"
+          }
+        ],
+        "dimensionName" : "小时榜",
+        "htmlUrl" : "http:\/\/liveroom.ximalaya.com\/gift-rank\/v1\/anchor\/rank\/{ts}?tab=0"
+      },
+      {
+        "dimensionType" : 1,
+        "ranks" : [
+          {
+            "coverSmall" : "http:\/\/imagev2.xmcdn.com\/group57\/M01\/5B\/B6\/wKgLd135v13TTap8AACP2Aw-UDc469.jpg!op_type=3&columns=86&rows=86",
+            "uid" : 125710750,
+            "nickname" : "阿西_"
+          },
+          {
+            "coverSmall" : "http:\/\/imagev2.xmcdn.com\/group59\/M06\/EF\/4B\/wKgLelzs136CDWi0AADbZGStYuI154.jpg!op_type=3&columns=86&rows=86",
+            "uid" : 118955471,
+            "nickname" : "Cc丶_"
+          },
+          {
+            "coverSmall" : "http:\/\/imagev2.xmcdn.com\/group64\/M02\/19\/3F\/wKgMc11yCluzjou7AABaT4w2mek193.jpg!op_type=3&columns=86&rows=86",
+            "uid" : 91021548,
+            "nickname" : "陈臻臻"
+          }
+        ],
+        "dimensionName" : "日榜",
+        "htmlUrl" : "http:\/\/liveroom.ximalaya.com\/gift-rank\/v1\/anchor\/rank\/{ts}?tab=1"
+      },
+      {
+        "dimensionType" : 4,
+        "ranks" : [
+          {
+            "coverSmall" : "http:\/\/imagev2.xmcdn.com\/group61\/M09\/2F\/15\/wKgMcF0p7SfC3uZpAAKnG_YBC7U320.jpg!op_type=3&columns=86&rows=86",
+            "uid" : 106645715,
+            "nickname" : "三月三__"
+          },
+          {
+            "coverSmall" : "http:\/\/imagev2.xmcdn.com\/group78\/M04\/01\/38\/wKgO4F5Ggg3QXGaCAAQuOjE3YC0460.jpg!op_type=3&columns=86&rows=86",
+            "uid" : 88391613,
+            "nickname" : "貂蝉宝宝_九星"
+          },
+          {
+            "coverSmall" : "http:\/\/imagev2.xmcdn.com\/group72\/M03\/F1\/AC\/wKgO0F4i3zaynJ-KAABAwaxUHzA995.jpg!op_type=3&columns=86&rows=86",
+            "uid" : 210720590,
+            "nickname" : "想吹空调的威尔"
+          }
+        ],
+        "dimensionName" : "排位赛周榜",
+        "htmlUrl" : "http:\/\/liveroom.ximalaya.com\/live-pk\/v1\/view\/ranking\/1581759737348?_full_with_bar=1"
+      },
+      {
+        "dimensionType" : 3,
+        "ranks" : [
+          {
+            "coverSmall" : "http:\/\/imagev2.xmcdn.com\/group22\/M09\/01\/C6\/wKgJM1iJQV7xQdqsAAAomTSOeYc98.jpeg!op_type=3&columns=86&rows=86",
+            "uid" : 20444164,
+            "nickname" : "雪月之下_唬头Bng"
+          },
+          {
+            "coverSmall" : "http:\/\/imagev2.xmcdn.com\/group63\/M01\/92\/B4\/wKgMcl0KXJaBAti7AACmJgy_4Mo551.jpg!op_type=3&columns=86&rows=86",
+            "uid" : 17773395,
+            "nickname" : "剧舞吧梨涡_九星"
+          },
+          {
+            "coverSmall" : "http:\/\/imagev2.xmcdn.com\/group11\/M07\/49\/3C\/wKgDbVcHFGTx-h2QAAiFKYoiQMg101.jpg!op_type=3&columns=86&rows=86",
+            "uid" : 8163465,
+            "nickname" : "云天河"
+          }
+        ],
+        "dimensionName" : "亲密度周榜",
+        "htmlUrl" : "http:\/\/liveroom.ximalaya.com\/gift-rank\/v1\/anchor\/rank\/{ts}?tab=3"
+      },
+      {
+        "dimensionType" : 5,
+        "ranks" : [
+          {
+            "coverSmall" : "http:\/\/imagev2.xmcdn.com\/group71\/M05\/76\/DA\/wKgOz144O3XTqqQ6AABdC84wVxo341.jpg!op_type=3&columns=86&rows=86",
+            "uid" : 133943111,
+            "nickname" : "Ys_酒酒"
+          },
+          {
+            "coverSmall" : "http:\/\/imagev2.xmcdn.com\/group70\/M01\/1E\/FD\/wKgO2F4kabGRoYToAAGDL_oXWWI893.jpg!op_type=3&columns=86&rows=86",
+            "uid" : 125337409,
+            "nickname" : "Ys_安宁"
+          },
+          {
+            "coverSmall" : "http:\/\/imagev2.xmcdn.com\/group68\/M0B\/6D\/80\/wKgMbl3c3IKwsEv0AADR79R1V58007.jpg!op_type=3&columns=86&rows=86",
+            "uid" : 105964673,
+            "nickname" : "十二笔画_安儿"
+          }
+        ],
+        "dimensionName" : "语音房周榜",
+        "htmlUrl" : "https:\/\/mlive.ximalaya.com\/gift-rank-web\/pages\/homeList\/1581759737351?_full_with_bar=1"
+      }
+    ],
+    "hpRankRollMillisecond" : 5000
+  },
+  "ret" : 0
+}

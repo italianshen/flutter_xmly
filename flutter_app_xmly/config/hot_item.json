@@ -1,0 +1,88 @@
+[
+  {
+    "id" : 733272,
+    "title" : "经典必听",
+    "displayClass" : "one_line",
+    "orderNum" : 1,
+    "properties" : {
+      "isPaid" : false,
+      "uri" : "iting:\/\/open?msg_type=107&toHome=true",
+      "type" : ""
+    },
+    "bucketId" : 0,
+    "coverPath" : "http:\/\/fdfs.xmcdn.com\/group68\/M03\/56\/94\/wKgMbl3pKd-zN6oQAACHkQjHDZU647.png",
+    "isExternalUrl" : false,
+    "bubbleText" : "",
+    "contentUpdatedAt" : 0,
+    "subtitle" : "",
+    "sharePic" : "",
+    "url" : "",
+    "darkCoverPath" : "",
+    "enableShare" : false,
+    "contentType" : "iting"
+  },
+  {
+    "id" : 733273,
+    "title" : "每日听单",
+    "displayClass" : "one_line",
+    "orderNum" : 2,
+    "properties" : {
+      "isPaid" : false,
+      "url" : "http:\/\/m.ximalaya.com\/tingdan2?_uiwv=1"
+    },
+    "bucketId" : 0,
+    "coverPath" : "http:\/\/fdfs.xmcdn.com\/group68\/M03\/56\/96\/wKgMbl3pKeiAYFL9AACkVtzLmzs631.png",
+    "isExternalUrl" : false,
+    "bubbleText" : "",
+    "contentUpdatedAt" : 0,
+    "subtitle" : "",
+    "sharePic" : "",
+    "url" : "http:\/\/m.ximalaya.com\/tingdan2?_uiwv=1&timestamp=1582090470067",
+    "darkCoverPath" : "",
+    "enableShare" : false,
+    "contentType" : "html5"
+  },
+  {
+    "id" : 733274,
+    "title" : "助眠解压",
+    "displayClass" : "one_line",
+    "orderNum" : 3,
+    "properties" : {
+      "isPaid" : false,
+      "uri" : "iting:\/\/open?msg_type=94&bundle=rn_asmr",
+      "type" : ""
+    },
+    "bucketId" : 0,
+    "coverPath" : "http:\/\/fdfs.xmcdn.com\/group70\/M02\/57\/07\/wKgO2F4Fo6CAnxgsAAQRFPQsPlE453.gif",
+    "isExternalUrl" : false,
+    "bubbleText" : "",
+    "contentUpdatedAt" : 0,
+    "subtitle" : "",
+    "sharePic" : "",
+    "url" : "",
+    "darkCoverPath" : "",
+    "enableShare" : false,
+    "contentType" : "iting"
+  },
+  {
+    "id" : 733275,
+    "title" : "精品",
+    "displayClass" : "one_line",
+    "orderNum" : 4,
+    "properties" : {
+      "isPaid" : true,
+      "categoryId" : 33
+    },
+    "bucketId" : 0,
+    "coverPath" : "http:\/\/fdfs.xmcdn.com\/group60\/M02\/4D\/27\/wKgLeV3zKR6DF42sAAAmci2m_oU772.png",
+    "isExternalUrl" : false,
+    "bubbleText" : "",
+    "contentUpdatedAt" : 0,
+    "subtitle" : "",
+    "sharePic" : "",
+    "url" : "",
+    "darkCoverPath" : "",
+    "enableShare" : false,
+    "contentType" : "album_category"
+  }
+]

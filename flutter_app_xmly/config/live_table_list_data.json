@@ -1,0 +1,319 @@
+{
+  "ret" : 0,
+  "data" : {
+    "pageId" : 1,
+    "lives" : [
+      {
+        "mode" : {
+          "modeName" : "普通模式",
+          "secondColor" : "",
+          "firstColor" : "",
+          "modeType" : 1
+        },
+        "roomId" : 345,
+        "categoryName" : "有声书",
+        "coverMiddle" : "http:\/\/imagev2.xmcdn.com\/group75\/M06\/0C\/C2\/wKgO3V5HNcjAMWktABi_uQfQ15M509.JPG!op_type=3&columns=140&rows=140&magick=png",
+        "coverLarge" : "http:\/\/imagev2.xmcdn.com\/group75\/M06\/0C\/C2\/wKgO3V5HNcjAMWktABi_uQfQ15M509.JPG!op_type=3&columns=290&rows=290&magick=png",
+        "actualStartAt" : 1581726287914,
+        "name" : "有声书专场~",
+        "mammonShow" : false,
+        "avatar" : "http:\/\/imagev2.xmcdn.com\/group65\/M07\/E6\/9D\/wKgMdF1b7FeivH_vAACm-NCNCR4373.jpg!op_type=3&columns=86&rows=86",
+        "id" : 5937755,
+        "type" : 0,
+        "permissionType" : 1,
+        "uid" : 23526237,
+        "nickname" : "叶听风",
+        "playCount" : 10133,
+        "chatId" : 219580,
+        "categoryId" : 41,
+        "price" : 0,
+        "coverSmall" : "http:\/\/imagev2.xmcdn.com\/group75\/M06\/0C\/C2\/wKgO3V5HNcjAMWktABi_uQfQ15M509.JPG!op_type=3&columns=86&rows=86&magick=png",
+        "status" : 9
+      },
+      {
+        "mode" : {
+          "modeName" : "普通模式",
+          "secondColor" : "",
+          "firstColor" : "",
+          "modeType" : 1
+        },
+        "roomId" : 1808460,
+        "categoryName" : "教育",
+        "coverMiddle" : "http:\/\/imagev2.xmcdn.com\/group77\/M0B\/08\/D8\/wKgO315HRGLB1SPmAAD30BmiM2Q621.jpg!op_type=3&columns=140&rows=140&magick=png",
+        "coverLarge" : "http:\/\/imagev2.xmcdn.com\/group77\/M0B\/08\/D8\/wKgO315HRGLB1SPmAAD30BmiM2Q621.jpg!op_type=3&columns=290&rows=290&magick=png",
+        "actualStartAt" : 1581735792467,
+        "name" : "社群营销",
+        "mammonShow" : false,
+        "avatar" : "http:\/\/imagev2.xmcdn.com\/group56\/M09\/19\/1F\/wKgLdlyDU_7BTOirAAAOvV0Qlr4977.jpg!op_type=3&columns=86&rows=86",
+        "id" : 5938668,
+        "type" : 0,
+        "permissionType" : 0,
+        "uid" : 165036856,
+        "nickname" : "zf6fhw30gkmyfifu43wq",
+        "playCount" : 49092,
+        "chatId" : 2243932,
+        "categoryId" : 35,
+        "price" : 0,
+        "coverSmall" : "http:\/\/imagev2.xmcdn.com\/group77\/M0B\/08\/D8\/wKgO315HRGLB1SPmAAD30BmiM2Q621.jpg!op_type=3&columns=86&rows=86&magick=png",
+        "status" : 9
+      },
+      {
+        "mode" : {
+          "modeName" : "正在PK",
+          "secondColor" : "#FE5196",
+          "firstColor" : "#F77062",
+          "modeType" : 3
+        },
+        "roomId" : 306721,
+        "categoryName" : "情感",
+        "coverMiddle" : "http:\/\/imagev2.xmcdn.com\/group73\/M03\/13\/8C\/wKgO215Hm9azFAkcAAP1wbRY8iA264.png!op_type=3&columns=140&rows=140&magick=png",
+        "coverLarge" : "http:\/\/imagev2.xmcdn.com\/group73\/M03\/13\/8C\/wKgO215Hm9azFAkcAAP1wbRY8iA264.png!op_type=3&columns=290&rows=290&magick=png",
+        "actualStartAt" : 1581751254752,
+        "name" : "❤距离你353米",
+        "mammonShow" : false,
+        "avatar" : "http:\/\/imagev2.xmcdn.com\/group64\/M02\/19\/3F\/wKgMc11yCluzjou7AABaT4w2mek193.jpg!op_type=3&columns=86&rows=86",
+        "id" : 5940964,
+        "type" : 0,
+        "permissionType" : 1,
+        "uid" : 91021548,
+        "nickname" : "陈臻臻",
+        "playCount" : 5618,
+        "chatId" : 136619,
+        "categoryId" : 32,
+        "price" : 0,
+        "coverSmall" : "http:\/\/imagev2.xmcdn.com\/group73\/M03\/13\/8C\/wKgO215Hm9azFAkcAAP1wbRY8iA264.png!op_type=3&columns=86&rows=86&magick=png",
+        "status" : 9
+      },
+      {
+        "mode" : {
+          "modeName" : "普通模式",
+          "secondColor" : "",
+          "firstColor" : "",
+          "modeType" : 1
+        },
+        "roomId" : 1023237,
+        "categoryName" : "翻唱",
+        "coverMiddle" : "http:\/\/imagev2.xmcdn.com\/group71\/M03\/E5\/FE\/wKgO2V4yScnSa4nJAAVut1FonZo652.jpg!op_type=3&columns=140&rows=140&magick=png",
+        "coverLarge" : "http:\/\/imagev2.xmcdn.com\/group71\/M03\/E5\/FE\/wKgO2V4yScnSa4nJAAVut1FonZo652.jpg!op_type=3&columns=290&rows=290&magick=png",
+        "actualStartAt" : 1581749366338,
+        "name" : "这个声音很上头",
+        "mammonShow" : false,
+        "avatar" : "http:\/\/imagev2.xmcdn.com\/group61\/M05\/65\/01\/wKgMcF0I0XzyFHs1AEl4Kx0Jz9Q226.gif!op_type=3&columns=86&rows=86",
+        "id" : 5937334,
+        "type" : 0,
+        "permissionType" : 0,
+        "uid" : 157269668,
+        "nickname" : "苏妃",
+        "playCount" : 6683,
+        "chatId" : 338716,
+        "categoryId" : 48,
+        "price" : 0,
+        "coverSmall" : "http:\/\/imagev2.xmcdn.com\/group71\/M03\/E5\/FE\/wKgO2V4yScnSa4nJAAVut1FonZo652.jpg!op_type=3&columns=86&rows=86&magick=png",
+        "status" : 9
+      },
+      {
+        "mode" : {
+          "modeName" : "普通模式",
+          "secondColor" : "",
+          "firstColor" : "",
+          "modeType" : 1
+        },
+        "roomId" : 1565571,
+        "categoryName" : "点歌",
+        "coverMiddle" : "http:\/\/imagev2.xmcdn.com\/group71\/M0B\/38\/94\/wKgOz14_0OKDt9W0AAFVIh4VgPw893.jpg!op_type=3&columns=140&rows=140&magick=png",
+        "coverLarge" : "http:\/\/imagev2.xmcdn.com\/group71\/M0B\/38\/94\/wKgOz14_0OKDt9W0AAFVIh4VgPw893.jpg!op_type=3&columns=290&rows=290&magick=png",
+        "actualStartAt" : 1581756266463,
+        "name" : "陪伴是最长情的告白",
+        "mammonShow" : false,
+        "avatar" : "http:\/\/imagev2.xmcdn.com\/group69\/M08\/06\/EE\/wKgMeV3lBDnj5eKcAACs8nwzYSs550.jpg!op_type=3&columns=86&rows=86",
+        "id" : 5941816,
+        "type" : 0,
+        "permissionType" : 0,
+        "uid" : 175451391,
+        "nickname" : "Y_云朵",
+        "playCount" : 113,
+        "chatId" : 2015844,
+        "categoryId" : 79,
+        "price" : 0,
+        "coverSmall" : "http:\/\/imagev2.xmcdn.com\/group71\/M0B\/38\/94\/wKgOz14_0OKDt9W0AAFVIh4VgPw893.jpg!op_type=3&columns=86&rows=86&magick=png",
+        "status" : 9
+      },
+      {
+        "mode" : {
+          "modeName" : "互动模式",
+          "secondColor" : "#FE5196",
+          "firstColor" : "#F77062",
+          "modeType" : 2
+        },
+        "roomId" : 1118890,
+        "categoryName" : "互动",
+        "coverMiddle" : "http:\/\/imagev2.xmcdn.com\/group64\/M01\/09\/6A\/wKgMaV1w90awOl-TAADpkNRmT74628.jpg!op_type=3&columns=140&rows=140&magick=png",
+        "coverLarge" : "http:\/\/imagev2.xmcdn.com\/group64\/M01\/09\/6A\/wKgMaV1w90awOl-TAADpkNRmT74628.jpg!op_type=3&columns=290&rows=290&magick=png",
+        "actualStartAt" : 1581696625016,
+        "name" : "音动24h娱乐 mo_小妹冠名",
+        "mammonShow" : false,
+        "avatar" : "http:\/\/imagev2.xmcdn.com\/group63\/M07\/4C\/3F\/wKgMcl0scIPBlyNXAAFdV8pzfW0700.jpg!op_type=3&columns=86&rows=86",
+        "id" : 5936275,
+        "type" : 0,
+        "permissionType" : 1,
+        "uid" : 166620236,
+        "nickname" : "音动___",
+        "playCount" : 1331,
+        "chatId" : 496792,
+        "categoryId" : 95,
+        "price" : 0,
+        "coverSmall" : "http:\/\/imagev2.xmcdn.com\/group64\/M01\/09\/6A\/wKgMaV1w90awOl-TAADpkNRmT74628.jpg!op_type=3&columns=86&rows=86&magick=png",
+        "status" : 9
+      },
+      {
+        "mode" : {
+          "modeName" : "普通模式",
+          "secondColor" : "",
+          "firstColor" : "",
+          "modeType" : 1
+        },
+        "roomId" : 1582890,
+        "categoryName" : "翻唱",
+        "coverMiddle" : "http:\/\/imagev2.xmcdn.com\/group70\/M0B\/44\/D2\/wKgOzl5AChGg8Q8FAAR14gOpWQA055.jpg!op_type=3&columns=140&rows=140&magick=png",
+        "coverLarge" : "http:\/\/imagev2.xmcdn.com\/group70\/M0B\/44\/D2\/wKgOzl5AChGg8Q8FAAR14gOpWQA055.jpg!op_type=3&columns=290&rows=290&magick=png",
+        "actualStartAt" : 1581758715613,
+        "name" : "超好听甜美男嗓",
+        "mammonShow" : false,
+        "avatar" : "http:\/\/imagev2.xmcdn.com\/group72\/M02\/2A\/BE\/wKgO0F46dGSisu9pAAIQQl_5uWU425.jpg!op_type=3&columns=86&rows=86",
+        "id" : 5937176,
+        "type" : 0,
+        "permissionType" : 0,
+        "uid" : 196694943,
+        "nickname" : "毒药_金牌段子手",
+        "playCount" : 1347,
+        "chatId" : 2020044,
+        "categoryId" : 48,
+        "price" : 0,
+        "coverSmall" : "http:\/\/imagev2.xmcdn.com\/group70\/M0B\/44\/D2\/wKgOzl5AChGg8Q8FAAR14gOpWQA055.jpg!op_type=3&columns=86&rows=86&magick=png",
+        "status" : 9
+      },
+      {
+        "mode" : {
+          "modeName" : "互动模式",
+          "secondColor" : "#FE5196",
+          "firstColor" : "#F77062",
+          "modeType" : 2
+        },
+        "roomId" : 899441,
+        "categoryName" : "互动",
+        "coverMiddle" : "http:\/\/imagev2.xmcdn.com\/group64\/M02\/23\/BE\/wKgMc11ygonxhlB2AAES-qq4WKI006.jpg!op_type=3&columns=140&rows=140&magick=png",
+        "coverLarge" : "http:\/\/imagev2.xmcdn.com\/group64\/M02\/23\/BE\/wKgMc11ygonxhlB2AAES-qq4WKI006.jpg!op_type=3&columns=290&rows=290&magick=png",
+        "actualStartAt" : 1581696058755,
+        "name" : "遇见i_澡堂冠",
+        "mammonShow" : false,
+        "avatar" : "http:\/\/imagev2.xmcdn.com\/group63\/M06\/4A\/F6\/wKgMaF0sZDqw6vaLAACkAGjZB8c031.jpg!op_type=3&columns=86&rows=86",
+        "id" : 5936144,
+        "type" : 0,
+        "permissionType" : 0,
+        "uid" : 138566824,
+        "nickname" : "遇见i____",
+        "playCount" : 2708,
+        "chatId" : 289369,
+        "categoryId" : 95,
+        "price" : 0,
+        "coverSmall" : "http:\/\/imagev2.xmcdn.com\/group64\/M02\/23\/BE\/wKgMc11ygonxhlB2AAES-qq4WKI006.jpg!op_type=3&columns=86&rows=86&magick=png",
+        "status" : 9
+      },
+      {
+        "mode" : {
+          "modeName" : "普通模式",
+          "secondColor" : "",
+          "firstColor" : "",
+          "modeType" : 1
+        },
+        "roomId" : 964135,
+        "categoryName" : "情感",
+        "coverMiddle" : "http:\/\/imagev2.xmcdn.com\/group78\/M0B\/22\/A1\/wKgO1l5HoxTQ1VwhAAD_1dqrh4I108.JPG!op_type=3&columns=140&rows=140&magick=png",
+        "coverLarge" : "http:\/\/imagev2.xmcdn.com\/group78\/M0B\/22\/A1\/wKgO1l5HoxTQ1VwhAAD_1dqrh4I108.JPG!op_type=3&columns=290&rows=290&magick=png",
+        "actualStartAt" : 1581753112784,
+        "name" : "把你揉进我怀里、",
+        "mammonShow" : false,
+        "avatar" : "http:\/\/imagev2.xmcdn.com\/group59\/M06\/EF\/4B\/wKgLelzs136CDWi0AADbZGStYuI154.jpg!op_type=3&columns=86&rows=86",
+        "id" : 5941305,
+        "type" : 0,
+        "permissionType" : 1,
+        "uid" : 118955471,
+        "nickname" : "Cc丶_",
+        "playCount" : 3671,
+        "chatId" : 312433,
+        "categoryId" : 32,
+        "price" : 0,
+        "coverSmall" : "http:\/\/imagev2.xmcdn.com\/group78\/M0B\/22\/A1\/wKgO1l5HoxTQ1VwhAAD_1dqrh4I108.JPG!op_type=3&columns=86&rows=86&magick=png",
+        "status" : 9
+      },
+      {
+        "mode" : {
+          "modeName" : "互动模式",
+          "secondColor" : "#FE5196",
+          "firstColor" : "#F77062",
+          "modeType" : 2
+        },
+        "roomId" : 1518057,
+        "categoryName" : "连线",
+        "coverMiddle" : "http:\/\/imagev2.xmcdn.com\/group64\/M04\/A0\/EF\/wKgMaV2mX32xzWk9AAF3A54r1QM390.jpg!op_type=3&columns=140&rows=140&magick=png",
+        "coverLarge" : "http:\/\/imagev2.xmcdn.com\/group64\/M04\/A0\/EF\/wKgMaV2mX32xzWk9AAF3A54r1QM390.jpg!op_type=3&columns=290&rows=290&magick=png",
+        "actualStartAt" : 1581757635433,
+        "name" : "星空Ys的直播",
+        "mammonShow" : false,
+        "avatar" : "http:\/\/imagev2.xmcdn.com\/group59\/M0A\/0A\/23\/wKgLel2dxGDDHFDjAACNGmpja0A435.jpg!op_type=3&columns=86&rows=86",
+        "id" : 5942017,
+        "type" : 0,
+        "permissionType" : 0,
+        "uid" : 191961457,
+        "nickname" : "星空Ys",
+        "playCount" : 184,
+        "chatId" : 2011023,
+        "categoryId" : 50,
+        "price" : 0,
+        "coverSmall" : "http:\/\/imagev2.xmcdn.com\/group64\/M04\/A0\/EF\/wKgMaV2mX32xzWk9AAF3A54r1QM390.jpg!op_type=3&columns=86&rows=86&magick=png",
+        "status" : 9
+      }
+    ],
+    "liveRanks" : [
+      {
+        "coverSmall" : "http:\/\/imagev2.xmcdn.com\/group57\/M01\/5B\/B6\/wKgLd135v13TTap8AACP2Aw-UDc469.jpg!op_type=3&columns=86&rows=86",
+        "uid" : 125710750,
+        "nickname" : "阿西_"
+      },
+      {
+        "coverSmall" : "http:\/\/imagev2.xmcdn.com\/group59\/M06\/EF\/4B\/wKgLelzs136CDWi0AADbZGStYuI154.jpg!op_type=3&columns=86&rows=86",
+        "uid" : 118955471,
+        "nickname" : "Cc丶_"
+      },
+      {
+        "coverSmall" : "http:\/\/imagev2.xmcdn.com\/group64\/M02\/19\/3F\/wKgMc11yCluzjou7AABaT4w2mek193.jpg!op_type=3&columns=86&rows=86",
+        "uid" : 91021548,
+        "nickname" : "陈臻臻"
+      }
+    ],
+    "categoryVoList" : [
+      {
+        "id" : 12,
+        "name" : "情感"
+      },
+      {
+        "id" : 13,
+        "name" : "音乐"
+      },
+      {
+        "id" : 14,
+        "name" : "有声"
+      },
+      {
+        "id" : 2,
+        "name" : "新秀"
+      },
+      {
+        "id" : 17,
+        "name" : "二次元"
+      }
+    ],
+    "pageSize" : 20,
+    "lastPage" : true
+  }
+}

@@ -1,0 +1,319 @@
+{
+  "ret" : 0,
+  "data" : {
+    "liveRanks" : [
+      {
+        "uid" : 118955471,
+        "nickname" : "Cc丶_",
+        "coverSmall" : "http:\/\/imagev2.xmcdn.com\/group59\/M06\/EF\/4B\/wKgLelzs136CDWi0AADbZGStYuI154.jpg!op_type=3&columns=86&rows=86"
+      },
+      {
+        "nickname" : "小晶姐姐的囡囡",
+        "uid" : 141259737,
+        "coverSmall" : "http:\/\/imagev2.xmcdn.com\/group61\/M0A\/02\/13\/wKgMcF0EsvLxbb6rAAAFXtXiO-s299.png!op_type=3&columns=86&rows=86"
+      },
+      {
+        "nickname" : "Alg圣贤_ayw",
+        "uid" : 203133218,
+        "coverSmall" : "http:\/\/imagev2.xmcdn.com\/group71\/M02\/DF\/D0\/wKgO2V48NTzSRXRRAAB2PiI26ls394.jpg!op_type=3&columns=86&rows=86"
+      }
+    ],
+    "lives" : [
+      {
+        "coverSmall" : "http:\/\/imagev2.xmcdn.com\/group71\/M06\/F4\/6D\/wKgO2V4hvwqh02S4AARC63hlF0k995.jpg!op_type=3&columns=86&rows=86&magick=png",
+        "name" : "别翻了，就我了～",
+        "categoryName" : "脱口秀",
+        "categoryId" : 71,
+        "avatar" : "http:\/\/imagev2.xmcdn.com\/group59\/M09\/57\/27\/wKgLeF33utCS8f2LAAIgO7nzVn0131.jpg!op_type=3&columns=86&rows=86",
+        "nickname" : "Miss丹__",
+        "uid" : 80001327,
+        "chatId" : 327418,
+        "status" : 9,
+        "mode" : {
+          "secondColor" : "#FE5196",
+          "firstColor" : "#F77062",
+          "modeType" : 3,
+          "modeName" : "正在PK"
+        },
+        "mammonShow" : false,
+        "price" : 0,
+        "actualStartAt" : 1581599418875,
+        "coverLarge" : "http:\/\/imagev2.xmcdn.com\/group71\/M06\/F4\/6D\/wKgO2V4hvwqh02S4AARC63hlF0k995.jpg!op_type=3&columns=290&rows=290&magick=png",
+        "permissionType" : 0,
+        "playCount" : 131,
+        "roomId" : 1006599,
+        "coverMiddle" : "http:\/\/imagev2.xmcdn.com\/group71\/M06\/F4\/6D\/wKgO2V4hvwqh02S4AARC63hlF0k995.jpg!op_type=3&columns=140&rows=140&magick=png",
+        "id" : 5918107,
+        "type" : 0
+      },
+      {
+        "coverSmall" : "http:\/\/imagev2.xmcdn.com\/group72\/M00\/0B\/C7\/wKgO0F4SeevAjPaLAAG4M0Lq8lQ489.jpg!op_type=3&columns=86&rows=86",
+        "name" : "❥ 是心动啊",
+        "categoryName" : "情感",
+        "categoryId" : 32,
+        "avatar" : "http:\/\/imagev2.xmcdn.com\/group72\/M00\/0B\/C7\/wKgO0F4SeevAjPaLAAG4M0Lq8lQ489.jpg!op_type=3&columns=86&rows=86",
+        "nickname" : "浅浅_九星",
+        "uid" : 149362039,
+        "chatId" : 2185407,
+        "status" : 9,
+        "mode" : {
+          "secondColor" : "#FE5196",
+          "firstColor" : "#F77062",
+          "modeType" : 3,
+          "modeName" : "正在PK"
+        },
+        "mammonShow" : false,
+        "price" : 0,
+        "actualStartAt" : 1581596148531,
+        "coverLarge" : "http:\/\/imagev2.xmcdn.com\/group72\/M00\/0B\/C7\/wKgO0F4SeevAjPaLAAG4M0Lq8lQ489.jpg!op_type=3&columns=290&rows=290&magick=png",
+        "permissionType" : 0,
+        "playCount" : 3902,
+        "roomId" : 1628474,
+        "coverMiddle" : "http:\/\/imagev2.xmcdn.com\/group72\/M00\/0B\/C7\/wKgO0F4SeevAjPaLAAG4M0Lq8lQ489.jpg!op_type=3&columns=180&rows=180",
+        "id" : 5913472,
+        "type" : 0
+      },
+      {
+        "coverSmall" : "http:\/\/imagev2.xmcdn.com\/group70\/M01\/D6\/CF\/wKgOzl5FQBGCUE9ZAAUpCwwB230389.jpg!op_type=3&columns=86&rows=86&magick=png",
+        "name" : "我合你胃口",
+        "categoryName" : "翻唱",
+        "categoryId" : 48,
+        "avatar" : "http:\/\/imagev2.xmcdn.com\/group57\/M05\/73\/F1\/wKgLgVyTOBii1DkvAAJo6AOIz8A411.jpg!op_type=3&columns=86&rows=86",
+        "nickname" : "七呢呢",
+        "uid" : 166788996,
+        "chatId" : 504192,
+        "status" : 9,
+        "mode" : {
+          "secondColor" : "#FE5196",
+          "firstColor" : "#F77062",
+          "modeType" : 3,
+          "modeName" : "正在PK"
+        },
+        "mammonShow" : false,
+        "price" : 0,
+        "actualStartAt" : 1581596736114,
+        "coverLarge" : "http:\/\/imagev2.xmcdn.com\/group70\/M01\/D6\/CF\/wKgOzl5FQBGCUE9ZAAUpCwwB230389.jpg!op_type=3&columns=290&rows=290&magick=png",
+        "permissionType" : 0,
+        "playCount" : 2216,
+        "roomId" : 1120509,
+        "coverMiddle" : "http:\/\/imagev2.xmcdn.com\/group70\/M01\/D6\/CF\/wKgOzl5FQBGCUE9ZAAUpCwwB230389.jpg!op_type=3&columns=140&rows=140&magick=png",
+        "id" : 5911628,
+        "type" : 0
+      },
+      {
+        "coverSmall" : "http:\/\/imagev2.xmcdn.com\/group58\/M05\/CC\/29\/wKgLglzQXKHDAnO0AAJnZa-aUXw713.jpg!op_type=3&columns=86&rows=86&magick=png",
+        "name" : "晚上见！",
+        "categoryName" : "音乐",
+        "categoryId" : 28,
+        "avatar" : "http:\/\/imagev2.xmcdn.com\/group48\/M09\/96\/FC\/wKgKnFumTVSiDPouAAF3V296tIg178.jpg!op_type=3&columns=86&rows=86",
+        "nickname" : "Star_大熊",
+        "uid" : 111086065,
+        "chatId" : 177073,
+        "status" : 9,
+        "mode" : {
+          "secondColor" : "",
+          "firstColor" : "",
+          "modeType" : 1,
+          "modeName" : "普通模式"
+        },
+        "mammonShow" : false,
+        "price" : 0,
+        "actualStartAt" : 1581599303471,
+        "coverLarge" : "http:\/\/imagev2.xmcdn.com\/group58\/M05\/CC\/29\/wKgLglzQXKHDAnO0AAJnZa-aUXw713.jpg!op_type=3&columns=290&rows=290&magick=png",
+        "permissionType" : 0,
+        "playCount" : 580,
+        "roomId" : 471434,
+        "coverMiddle" : "http:\/\/imagev2.xmcdn.com\/group58\/M05\/CC\/29\/wKgLglzQXKHDAnO0AAJnZa-aUXw713.jpg!op_type=3&columns=140&rows=140&magick=png",
+        "id" : 5915812,
+        "type" : 0
+      },
+      {
+        "coverSmall" : "http:\/\/imagev2.xmcdn.com\/group69\/M00\/4C\/75\/wKgMeV279fDB09TDAAEVOEvmQhk020.jpg!op_type=3&columns=86&rows=86&magick=png",
+        "name" : "这主播贼丑",
+        "categoryName" : "段子手",
+        "categoryId" : 70,
+        "avatar" : "http:\/\/imagev2.xmcdn.com\/group63\/M07\/CC\/5C\/wKgMaF0Wopyx3DuaAACRiZUunlg396.jpg!op_type=3&columns=86&rows=86",
+        "nickname" : "miss酱油君",
+        "uid" : 43701367,
+        "chatId" : 270072,
+        "status" : 9,
+        "mode" : {
+          "secondColor" : "",
+          "firstColor" : "",
+          "modeType" : 1,
+          "modeName" : "普通模式"
+        },
+        "mammonShow" : false,
+        "price" : 0,
+        "actualStartAt" : 1581602343974,
+        "coverLarge" : "http:\/\/imagev2.xmcdn.com\/group69\/M00\/4C\/75\/wKgMeV279fDB09TDAAEVOEvmQhk020.jpg!op_type=3&columns=290&rows=290&magick=png",
+        "permissionType" : 0,
+        "playCount" : 115,
+        "roomId" : 378051,
+        "coverMiddle" : "http:\/\/imagev2.xmcdn.com\/group69\/M00\/4C\/75\/wKgMeV279fDB09TDAAEVOEvmQhk020.jpg!op_type=3&columns=140&rows=140&magick=png",
+        "id" : 5919006,
+        "type" : 0
+      },
+      {
+        "coverSmall" : "http:\/\/imagev2.xmcdn.com\/group63\/M0A\/0E\/BC\/wKgMcl0Y3P3h112LAAHOIOgpBI4913.png!op_type=3&columns=86&rows=86&magick=png",
+        "name" : "倾城-妮家老刘独家冠名！",
+        "categoryName" : "互动",
+        "categoryId" : 95,
+        "avatar" : "http:\/\/imagev2.xmcdn.com\/group61\/M04\/52\/59\/wKgMZl0smhTxgd8QAAF6naK1vck605.jpg!op_type=3&columns=86&rows=86",
+        "nickname" : "倾城i__",
+        "uid" : 132966977,
+        "chatId" : 280607,
+        "status" : 9,
+        "mode" : {
+          "secondColor" : "#FE5196",
+          "firstColor" : "#F77062",
+          "modeType" : 2,
+          "modeName" : "互动模式"
+        },
+        "mammonShow" : false,
+        "price" : 0,
+        "actualStartAt" : 1581523252019,
+        "coverLarge" : "http:\/\/imagev2.xmcdn.com\/group63\/M0A\/0E\/BC\/wKgMcl0Y3P3h112LAAHOIOgpBI4913.png!op_type=3&columns=290&rows=290&magick=png",
+        "permissionType" : 1,
+        "playCount" : 1574,
+        "roomId" : 879792,
+        "coverMiddle" : "http:\/\/imagev2.xmcdn.com\/group63\/M0A\/0E\/BC\/wKgMcl0Y3P3h112LAAHOIOgpBI4913.png!op_type=3&columns=140&rows=140&magick=png",
+        "id" : 5912100,
+        "type" : 0
+      },
+      {
+        "coverSmall" : "http:\/\/imagev2.xmcdn.com\/group70\/M04\/E1\/7C\/wKgO2F4xyWbQuDT-AAD6qcCOCT0807.jpg!op_type=3&columns=86&rows=86&magick=png",
+        "name" : "治愈女声 予你星晨",
+        "categoryName" : "翻唱",
+        "categoryId" : 48,
+        "avatar" : "http:\/\/imagev2.xmcdn.com\/group61\/M05\/31\/0C\/wKgMZl0Gh1ryyzotAAGCpDvp9Wg922.jpg!op_type=3&columns=86&rows=86",
+        "nickname" : "予晨_九星",
+        "uid" : 99723962,
+        "chatId" : 116326,
+        "status" : 9,
+        "mode" : {
+          "secondColor" : "",
+          "firstColor" : "",
+          "modeType" : 1,
+          "modeName" : "普通模式"
+        },
+        "mammonShow" : false,
+        "price" : 0,
+        "actualStartAt" : 1581599112061,
+        "coverLarge" : "http:\/\/imagev2.xmcdn.com\/group70\/M04\/E1\/7C\/wKgO2F4xyWbQuDT-AAD6qcCOCT0807.jpg!op_type=3&columns=290&rows=290&magick=png",
+        "permissionType" : 0,
+        "playCount" : 1772,
+        "roomId" : 277470,
+        "coverMiddle" : "http:\/\/imagev2.xmcdn.com\/group70\/M04\/E1\/7C\/wKgO2F4xyWbQuDT-AAD6qcCOCT0807.jpg!op_type=3&columns=140&rows=140&magick=png",
+        "id" : 5916460,
+        "type" : 0
+      },
+      {
+        "coverSmall" : "http:\/\/imagev2.xmcdn.com\/group64\/M02\/23\/BE\/wKgMc11ygonxhlB2AAES-qq4WKI006.jpg!op_type=3&columns=86&rows=86&magick=png",
+        "name" : "遇见",
+        "categoryName" : "互动",
+        "categoryId" : 95,
+        "avatar" : "http:\/\/imagev2.xmcdn.com\/group63\/M06\/4A\/F6\/wKgMaF0sZDqw6vaLAACkAGjZB8c031.jpg!op_type=3&columns=86&rows=86",
+        "nickname" : "遇见i____",
+        "uid" : 138566824,
+        "chatId" : 289369,
+        "status" : 9,
+        "mode" : {
+          "secondColor" : "#FE5196",
+          "firstColor" : "#F77062",
+          "modeType" : 2,
+          "modeName" : "互动模式"
+        },
+        "mammonShow" : false,
+        "price" : 0,
+        "actualStartAt" : 1581552635237,
+        "coverLarge" : "http:\/\/imagev2.xmcdn.com\/group64\/M02\/23\/BE\/wKgMc11ygonxhlB2AAES-qq4WKI006.jpg!op_type=3&columns=290&rows=290&magick=png",
+        "permissionType" : 1,
+        "playCount" : 2355,
+        "roomId" : 899441,
+        "coverMiddle" : "http:\/\/imagev2.xmcdn.com\/group64\/M02\/23\/BE\/wKgMc11ygonxhlB2AAES-qq4WKI006.jpg!op_type=3&columns=140&rows=140&magick=png",
+        "id" : 5913783,
+        "type" : 0
+      },
+      {
+        "coverSmall" : "http:\/\/imagev2.xmcdn.com\/group70\/M07\/CC\/A5\/wKgOzl5FBWaT2SOGAAVwKJ6AOnE985.jpg!op_type=3&columns=86&rows=86&magick=png",
+        "name" : "【红包巧克力在线派送】",
+        "categoryName" : "翻唱",
+        "categoryId" : 48,
+        "avatar" : "http:\/\/imagev2.xmcdn.com\/group61\/M06\/BD\/7E\/wKgMZl0MUPayRqMRABPj3XOiyyI439.gif!op_type=3&columns=86&rows=86",
+        "nickname" : "鹿苑_怪兽Monster",
+        "uid" : 167258316,
+        "chatId" : 499066,
+        "status" : 9,
+        "mode" : {
+          "secondColor" : "#FE5196",
+          "firstColor" : "#F77062",
+          "modeType" : 2,
+          "modeName" : "互动模式"
+        },
+        "mammonShow" : false,
+        "price" : 0,
+        "actualStartAt" : 1581594140409,
+        "coverLarge" : "http:\/\/imagev2.xmcdn.com\/group70\/M07\/CC\/A5\/wKgOzl5FBWaT2SOGAAVwKJ6AOnE985.jpg!op_type=3&columns=290&rows=290&magick=png",
+        "permissionType" : 0,
+        "playCount" : 4964,
+        "roomId" : 1125329,
+        "coverMiddle" : "http:\/\/imagev2.xmcdn.com\/group70\/M07\/CC\/A5\/wKgOzl5FBWaT2SOGAAVwKJ6AOnE985.jpg!op_type=3&columns=140&rows=140&magick=png",
+        "id" : 5919253,
+        "type" : 0
+      },
+      {
+        "coverSmall" : "http:\/\/imagev2.xmcdn.com\/group64\/M04\/A0\/EF\/wKgMaV2mX32xzWk9AAF3A54r1QM390.jpg!op_type=3&columns=86&rows=86&magick=png",
+        "name" : "星空Ys的直播",
+        "categoryName" : "互动",
+        "categoryId" : 95,
+        "avatar" : "http:\/\/imagev2.xmcdn.com\/group59\/M0A\/0A\/23\/wKgLel2dxGDDHFDjAACNGmpja0A435.jpg!op_type=3&columns=86&rows=86",
+        "nickname" : "星空Ys",
+        "uid" : 191961457,
+        "chatId" : 2011023,
+        "status" : 9,
+        "mode" : {
+          "secondColor" : "#FE5196",
+          "firstColor" : "#F77062",
+          "modeType" : 2,
+          "modeName" : "互动模式"
+        },
+        "mammonShow" : false,
+        "price" : 0,
+        "actualStartAt" : 1581551785842,
+        "coverLarge" : "http:\/\/imagev2.xmcdn.com\/group64\/M04\/A0\/EF\/wKgMaV2mX32xzWk9AAF3A54r1QM390.jpg!op_type=3&columns=290&rows=290&magick=png",
+        "permissionType" : 0,
+        "playCount" : 1768,
+        "roomId" : 1518057,
+        "coverMiddle" : "http:\/\/imagev2.xmcdn.com\/group64\/M04\/A0\/EF\/wKgMaV2mX32xzWk9AAF3A54r1QM390.jpg!op_type=3&columns=140&rows=140&magick=png",
+        "id" : 5913731,
+        "type" : 0
+      }
+    ],
+    "pageId" : 1,
+    "categoryVoList" : [
+      {
+        "name" : "情感",
+        "id" : 12
+      },
+      {
+        "name" : "音乐",
+        "id" : 13
+      },
+      {
+        "name" : "有声",
+        "id" : 14
+      },
+      {
+        "name" : "新秀",
+        "id" : 2
+      },
+      {
+        "name" : "二次元",
+        "id" : 17
+      }
+    ],
+    "lastPage" : true,
+    "pageSize" : 20
+  }
+}
