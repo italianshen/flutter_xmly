@@ -26,30 +26,25 @@ class _HomePageState extends State<HomePage> with SingleTickerProviderStateMixin
 
   TabController _tabController;
 
+  /// 推荐
+  HomeRecommendPage homePage;
+  /// 分类
+  HomeClassifyListView classifyPage;
+  /// vip
+  HomeVipPage vipPage;
+  /// live
+  HomeLivePage livePage;
+
+  /// 广播页
+  HomeBroadCastPage broadCastPage;
+
+  List<Widget> tabPages;
+
   // 根据标题或者索引去获取对应的widget
   int currentTabIndex = 0;
 
   @override
   bool get wantKeepAlive => true;
-
-  Widget getCurrentPage(){
-    if(currentTabIndex == 4){
-       return HomeBroadCastPage();
-    }else if (currentTabIndex == 0){
-       return HomeRecommendPage();
-    }else if (currentTabIndex == 1){
-      return HomeClassifyListView();
-    }else if (currentTabIndex == 3){
-      return HomeLivePage();
-    }else if (currentTabIndex == 2){
-      return HomeVipPage();
-    }
-    else{
-      return  Center(
-        child: Text(_tabs[currentTabIndex]),
-      );
-    }
-  }
 
 
   @override
@@ -58,6 +53,23 @@ class _HomePageState extends State<HomePage> with SingleTickerProviderStateMixin
     super.initState();
     debugPrint("🤣 开始初始化>>>>");
     _tabController = TabController(length: _tabs.length, vsync: this);
+    tabPages = new List();
+
+    /// 推荐
+    homePage = HomeRecommendPage();
+    /// 分类
+    classifyPage = HomeClassifyListView();
+    /// vip
+    vipPage = HomeVipPage();
+    /// live
+    livePage = HomeLivePage();
+    /// 广播页
+    broadCastPage = HomeBroadCastPage();
+    tabPages.add(homePage);
+    tabPages.add(classifyPage);
+    tabPages.add(vipPage);
+    tabPages.add(livePage);
+    tabPages.add(broadCastPage);
   }
 
 
@@ -67,36 +79,37 @@ class _HomePageState extends State<HomePage> with SingleTickerProviderStateMixin
     _tabController.dispose();
   }
 
+
+  /// 初始化tab
+  Widget _initChannelTitle(){
+    return TabBar(
+        controller: _tabController,
+        indicatorColor: Colors.white,
+        tabs: _tabs.map((item) => Tab(text: item,)).toList()
+    );
+  }
+
+  /// 初始化内容列表
+  Widget _initChannelList(){
+
+    return TabBarView(
+      controller: _tabController,
+        children: tabPages
+    );
+  }
+
+
   @override
   Widget build(BuildContext context) {
-    ThemeModel model = Provider.of<ThemeModel>(context);
-    return Container(
-      color: Colors.red,
-      child: DefaultTabController(
-          length: _tabs.length,
-          child: Scaffold(
+    return DefaultTabController(
+        length: _tabs.length,
+        child: Scaffold(
             appBar: AppBar(
               title: Text("首页"),
-              bottom: TabBar(
-                indicatorColor: model.getCurrentThemeColor(),
-                  controller: _tabController,
-                  tabs: _tabs.map((item) => Tab(text: item,)).toList(),
-                  onTap: (index){
-                    setState(() {
-                      currentTabIndex = index;
-                    });
-                  },
-              ),
+              bottom: _initChannelTitle(),
             ),
-            body: TabBarView(
-                controller: _tabController,
-                children: _tabs.map((item) => Container(
-                  color: Colors.white,
-                  alignment: Alignment.center,
-                  child: getCurrentPage(),
-                )).toList())
-          )
-      )
+            body: _initChannelList()
+        )
     );
   }
 }

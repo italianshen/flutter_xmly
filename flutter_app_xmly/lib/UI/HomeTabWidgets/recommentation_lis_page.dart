@@ -19,7 +19,8 @@ class HomeRecommendPage extends StatefulWidget{
   }
 }
 
-class _HomeRecommendPageState extends State<HomeRecommendPage> with SingleTickerProviderStateMixin,AutomaticKeepAliveClientMixin{
+class _HomeRecommendPageState extends State<HomeRecommendPage> with
+    AutomaticKeepAliveClientMixin{
 
   final List<String> bannerArr = ["https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1562723625662&di=bc7be59dd27706ea65ea33a94c209477&imgtype=0&src=http%3A%2F%2Fpic.58pic.com%2F58pic%2F12%2F40%2F43%2F18958PICYpQ.jpg",
   "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1562723734494&di=864f7b85f900f0b68e8bc08f1c078eed&imgtype=0&src=http%3A%2F%2Fb-ssl.duitang.com%2Fuploads%2Fblog%2F201511%2F02%2F20151102140204_WUSwE.jpeg",
@@ -31,7 +32,8 @@ class _HomeRecommendPageState extends State<HomeRecommendPage> with SingleTicker
   ///列表数据源
   List<HomeRecomendBaseListModel> dataSource;
 
-  @override bool get wantKeepAlive => true;
+  @override
+  bool get wantKeepAlive => true;
 
   Widget createGuessYouLikeRow(BuildContext context){
     double screenWidth = MediaQuery.of(context).size.width;
@@ -153,6 +155,7 @@ class _HomeRecommendPageState extends State<HomeRecommendPage> with SingleTicker
 
   @override
   Widget build(BuildContext context) {
+    super.build(context);
     return Scaffold(
       body: dataSource.length == 0
           ? new Center(

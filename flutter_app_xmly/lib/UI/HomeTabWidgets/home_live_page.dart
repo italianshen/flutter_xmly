@@ -64,7 +64,7 @@ class _HomeLivePageState extends State<HomeLivePage> with AutomaticKeepAliveClie
   // 获取网页地址
   @override
   Widget build(BuildContext context) {
-//    return _featchDataThenLoadView();
+    print("🍎加载live直播页面");
     return _featchDataThenLoadView();
   }
 
@@ -108,7 +108,9 @@ class _HomeLivePageState extends State<HomeLivePage> with AutomaticKeepAliveClie
           if (snapshot.connectionState == ConnectionState.done){
             return _createLiveContentView();
           }else{
-            return CircularProgressIndicator();
+            return Center(
+              child: CircularProgressIndicator(),
+            );
           }
         }
     );

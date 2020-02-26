@@ -1,8 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_app_xmly/Model/BaseResponseModel.dart';
-import 'package:flutter_app_xmly/main_providers/theme_model.dart';
 import 'package:fluttertoast/fluttertoast.dart';
-import 'package:provider/provider.dart';
 
 class GuessYouLikeListItem extends StatelessWidget{
   final HomeGuessYouLikeListModel _model;
@@ -11,7 +9,6 @@ class GuessYouLikeListItem extends StatelessWidget{
 
   @override
   Widget build(BuildContext context) {
-    ThemeModel model = Provider.of<ThemeModel>(context);
     // TODO: implement build
     return InkWell(
         onTap: () {
@@ -31,16 +28,6 @@ class GuessYouLikeListItem extends StatelessWidget{
         )
     );
   }
-
-  //MARK: - 右布局
-//  Widget _layoutTwoRightExpanded(){
-//    return Expanded(
-//        child: Container(
-//          margin: EdgeInsets.only(left: 10.0),
-//          height: 150.0,
-//          child: _layoutTwoRightColumn(),
-//        ));
-//  }
 
 
   // MARK: - 实现左侧图片
@@ -66,17 +53,6 @@ class GuessYouLikeListItem extends StatelessWidget{
       backgroundImage: NetworkImage(imageUrl),
     );
   }
-
-
-  Widget _layoutRightItem(BuildContext context){
-
-    return Container(
-      color: Colors.red,
-      width: double.infinity,
-      height: 90.0,
-    );
-  }
-
 
   //MARK: - 右布局
   Widget _layoutTwoRightExpandedColumnWidget(){
@@ -155,65 +131,13 @@ class GuessYouLikeListItem extends StatelessWidget{
   }
 
 
-  // 实现右边的布局
-  Widget _layoutTwoRightColumn(){
-    return new Column(
-      crossAxisAlignment: CrossAxisAlignment.start,
-      children: <Widget>[
-        //电影名称
-        Text(
-          "流浪地球流浪地球流浪地球流浪地球流浪地球流浪地球流浪地球流浪地球流浪地球流浪地球流浪地球流浪地球流浪地球",
-          style: getTextStyle(Colors.black, 20.0, true),
-          maxLines: 1,
-          overflow: TextOverflow.ellipsis,
-        ),
-        Text(
-          "豆瓣评分: 7.9",
-          style: getTextStyle(Colors.black54, 16.0, false),
-        ),
-        Text(
-          '类型: 科幻、太空、灾难',
-          style: getTextStyle(Colors.black54, 16.0, false),
-        ),
-        Text(
-          '导演:郭帆',
-          style: getTextStyle(Colors.black54, 16.0, false),
-        ),
-        //主演
-        Container(
-          margin: EdgeInsets.only(top: 8.0),
-          child: Row(
-            children: <Widget>[
-              Text("主演"),
-              Row(
-                children: <Widget>[
-                  Container(
-                    margin: EdgeInsets.only(left: 2.0),
-                    child: getCircleAvatar(this._model.coverMiddle),
-                  ),
-                  Container(
-                    margin: EdgeInsets.only(left: 12.0),
-                    child: getCircleAvatar(this._model.coverMiddle),
-                  ),
-                  Container(
-                    margin: EdgeInsets.only(left: 12.0),
-                    child: getCircleAvatar(this._model.coverMiddle),
-                  ),
-                ],
-              )
-            ],
-          ),
-        )
-      ],
-    );
-  }
-
   /**
    * TextStyle:封装
    * colors:颜色
    * fontsizes：字体大小
    * isFontWeight：是否加粗
    */
+
   TextStyle getTextStyle(Color colors,double fontsizes,bool isFontWeight){
     return TextStyle(
       color:colors,

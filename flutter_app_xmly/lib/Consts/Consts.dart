@@ -11,3 +11,8 @@ enum ThemeType {
   Day,// 白天
   Night// 夜间
 }
+
+enum SquareState {
+  Unexpanded,// 未展开
+  Expanded//展开
+}

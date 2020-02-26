@@ -1,7 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_app_xmly/UI/loading.dart';
 import 'package:flutter_app_xmly/UI/app.dart';
-import 'Consts/Consts.dart';
 import 'UI/HomeTabWidgets/guess_you_like_list_page.dart';
 import 'UI/HomeTabWidgets/guess_you_like_page.dart';
 import 'package:provider/provider.dart';

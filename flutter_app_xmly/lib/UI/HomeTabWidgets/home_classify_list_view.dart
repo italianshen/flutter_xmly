@@ -21,6 +21,7 @@ class _HomeClassifyListViewState extends State<HomeClassifyListView> with Automa
 
   @override
   Widget build(BuildContext context) {
+    debugPrint("🍎首页分类列表加载");
     return Scaffold(
 //      body: _createContentView(context),
       body: _createContentView(context),

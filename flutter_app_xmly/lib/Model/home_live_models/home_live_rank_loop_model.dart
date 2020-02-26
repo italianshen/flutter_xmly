@@ -6,10 +6,8 @@ class HomeLiveRankLoopModel {
   List<HomeLiveRankLoopRankModel> ranks;
 
   HomeLiveRankLoopModel.fromJson(Map<String,dynamic> json){
-    String name = json["dimensionName"];
     dimensionName = json["dimensionName"];
     List ranksList = json["ranks"];
-    var type = ranksList.runtimeType;
     if (ranksList != null){
       List<HomeLiveRankLoopRankModel> models = new List();
       ranksList.forEach((temp){

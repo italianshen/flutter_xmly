@@ -13,7 +13,7 @@ class HomeBroadCastPage extends StatefulWidget{
   }
 }
 
-class _HomeBroadCastPageState extends State<HomeBroadCastPage> with SingleTickerProviderStateMixin{
+class _HomeBroadCastPageState extends State<HomeBroadCastPage> with AutomaticKeepAliveClientMixin{
 
 
   /// 数据模型
@@ -26,11 +26,13 @@ class _HomeBroadCastPageState extends State<HomeBroadCastPage> with SingleTicker
   // 是否是展开状态
   bool isExpaned = false;
 
-  ScrollController _scrollController;
-
   final String kExpandChannelName = "Expand";
 
   final String kUnExpandChannelName = "Unuxpand";
+
+
+  @override
+  bool get wantKeepAlive => true;
 
   Widget buildChannelItem(String title,IconData icon){
     return Column(
@@ -134,12 +136,8 @@ class _HomeBroadCastPageState extends State<HomeBroadCastPage> with SingleTicker
   void initState() {
     // TODO: implement initState
     super.initState();
-    initParams();
   }
 
-  initParams(){
-     _scrollController = ScrollController();
-  }
 
 
   Widget createMoreChannelWidgetItem(String title){
@@ -335,12 +333,8 @@ class _HomeBroadCastPageState extends State<HomeBroadCastPage> with SingleTicker
               ],
             );
           }else{
-            return Container(
-              child: SizedBox(
-                width: 30.0,
-                height: 30.0,
-                child: Text("正在加载中"),
-              ),
+            return Center(
+              child: CircularProgressIndicator(),
             );
           }
         });
@@ -349,6 +343,7 @@ class _HomeBroadCastPageState extends State<HomeBroadCastPage> with SingleTicker
 
   @override
   Widget build(BuildContext context) {
+    print("🍎初始化广播页面");
     return  loadContentView(context);
   }
 }

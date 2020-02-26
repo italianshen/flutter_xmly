@@ -35,7 +35,7 @@ class _HomeVipPageState extends State<HomeVipPage> with AutomaticKeepAliveClient
 
   @override
   Widget build(BuildContext context) {
-    // TODO: implement build
+     print("🍎加载vip页面");
     return createContentView(context);
   }
   /// 加载本地数据源
