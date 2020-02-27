@@ -184,7 +184,6 @@ class GuessYouLikeListItemView extends StatelessWidget{
   Widget _mineItem(BuildContext context,String imageName,String title,String recReason,int subscribeCount,int tracks){
     double screenWidth = MediaQuery.of(context).size.width;
     double rtMaxWidth = screenWidth - 15.0 * 2 - 10 - 90;
-    double rtTitleLBMaxWidth = rtMaxWidth - 40;
     return Row(
       children: <Widget>[
         Container(

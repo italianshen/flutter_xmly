@@ -52,7 +52,9 @@ class _HomeVipPageState extends State<HomeVipPage> with AutomaticKeepAliveClient
             });
             return loadContentView(context);
           }else{
-            return CircularProgressIndicator();
+            return Center(
+              child: CircularProgressIndicator(),
+            );
           }
         });
   }

@@ -176,8 +176,6 @@ class _HomeLivePageState extends State<HomeLivePage> with AutomaticKeepAliveClie
     });
   }
 
-
-
   Widget _createLiveContentView(){
     double itemWidth = (MediaQuery.of(context).size.width - (3 * 4.0))/4.0;
     double screenW = MediaQuery.of(context).size.width;
@@ -279,7 +277,4 @@ class _HomeLivePageState extends State<HomeLivePage> with AutomaticKeepAliveClie
       ),
     );
   }
-
-
-
 }

@@ -1,9 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_app_xmly/API/HomeApi.dart';
-import 'dart:convert';
-import 'dart:io';
 import 'package:flutter/foundation.dart';
-import 'package:flutter_app_xmly/API/HttpUtils.dart';
 import 'package:flutter_app_xmly/Model/BaseResponseModel.dart';
 import 'package:flutter_app_xmly/UI/HomeTabWidgets/guess_you_like_list_item.dart';
 class HomeGuessYouLikePage extends StatefulWidget{

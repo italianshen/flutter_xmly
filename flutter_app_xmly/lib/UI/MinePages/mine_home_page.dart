@@ -1,14 +1,21 @@
 import 'package:flutter/material.dart';
+import 'package:flutter_app_xmly/UI/MinePages/vip_animated_view.dart';
 import 'package:flutter_app_xmly/main_providers/theme_model.dart';
 import 'package:provider/provider.dart';
 import 'MineItemWidget.dart';
+import 'dart:math' as math;
 
 class MineHomePage extends StatefulWidget{
   @override
   _MineHomePageState createState() => _MineHomePageState();
 }
 
-class _MineHomePageState extends State<MineHomePage>{
+class _MineHomePageState extends State<MineHomePage> with TickerProviderStateMixin{
+
+  /// 动画控制器
+  AnimationController controller;
+  /// Animation
+  Animation<Offset> animation;
 
   // 数据源
   List<Map<String,dynamic>> dataSource = [];
@@ -25,10 +32,51 @@ class _MineHomePageState extends State<MineHomePage>{
   {"icon":"","title":"直播喜钻","number":"66"},{"icon":"images/wallet@3x.png","title":"我的钱包","number":"88"}
   ];
 
+
+  @override
+  void initState() {
+    // TODO: implement initState
+    super.initState();
+
+    controller = AnimationController(
+        duration: const Duration(seconds: 2),
+        vsync: this);
+    // 动画开始、结束、向前移动或向后移动监听
+    controller.addStatusListener((status){
+      if(status == AnimationStatus.completed){
+        // 动画从controller.forward() 正向执行结束时调用
+        print("status is completed");
+        // 将动画重置到开始状态
+        controller.reverse();
+      }else if (status == AnimationStatus.dismissed){
+        // 动画从controller.reverse()反向执行结束时会回调此方法
+        print("status is dismissed");
+        controller.forward();
+      }else if (status == AnimationStatus.forward){
+        print("status is forward");
+      }else if (status == AnimationStatus.reverse){
+        print("status is reverse");
+      }
+    });
+
+    animation = Tween(begin: Offset(0, 0),end: Offset(0, 1)).animate(controller);
+    /// 开始动画
+    controller.forward();
+  }
+
+  @override
+  void dispose() {
+    // TODO: implement dispose
+    super.dispose();
+    controller.dispose();
+  }
+
+
+
   Widget buildHeaderInfoView(){
     return Container(
         width: double.infinity,
-        padding: EdgeInsets.only(left: 0,right: 0.0,top: 15.0,bottom: 0.0),
+        padding: EdgeInsets.only(left: 0,right: 15.0,top: 15.0,bottom: 0.0),
         color: Colors.white,
         child: Column(
           mainAxisAlignment: MainAxisAlignment.start,
@@ -40,7 +88,7 @@ class _MineHomePageState extends State<MineHomePage>{
                 Row(
                   children: <Widget>[
                     Container(
-                      margin: EdgeInsets.only(top: 10.0,left: 15.0),
+                      margin: EdgeInsets.only(top: 0.0,left: 15.0),
                       width: 100.0,
                       height: 100.0,
                       decoration: BoxDecoration(
@@ -54,7 +102,9 @@ class _MineHomePageState extends State<MineHomePage>{
                         ),
                       ),
                     ),
-                    Expanded(child:
+                    Expanded(
+                      flex: 2,
+                        child:
                     Container(
                       padding: EdgeInsets.only(left: 10.0,top: 10.0),
                       width: double.infinity,
@@ -66,11 +116,13 @@ class _MineHomePageState extends State<MineHomePage>{
                         children: <Widget>[
                           Text("Tom先生"),
                           SizedBox(height: 15.0,),
-                          Row(
+                          Expanded(
+                            flex: 2,
+                              child: Row(
                             children: <Widget>[
                               Text("粉丝 100万",style: TextStyle(
-                                fontSize: 15.0,
-                                color: Colors.grey
+                                  fontSize: 15.0,
+                                  color: Colors.grey
                               ),),
                               SizedBox(width: 15.0,),
                               Text("关注 7",style: TextStyle(
@@ -78,10 +130,14 @@ class _MineHomePageState extends State<MineHomePage>{
                                   color: Colors.grey
                               )),
                             ],
-                          )
+                          )),
                         ],
                       ),
-                    ))
+                    )),
+                    Expanded(
+                      flex: 2,
+                        child: buildSlideTransition()
+                    )
                   ],
                 )
               ],
@@ -95,6 +151,17 @@ class _MineHomePageState extends State<MineHomePage>{
             )
           ],
         )
+    );
+  }
+
+
+  /// 构造移动的会员版
+  Widget buildSlideTransition(){
+    return Container(
+      child: SlideTransition(
+        position: animation,
+        child: MineVipAnimationView(),
+      ),
     );
   }
 
