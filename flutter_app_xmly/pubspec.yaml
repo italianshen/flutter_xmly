@@ -65,6 +65,7 @@ flutter:
    - config/home_classify_tab_data.json
    - config/home_vip_data.json
    - config/play_detail_data.json
+   - config/broad_cast_detail_list_data.json
 
 
 #//home_vip_data.json

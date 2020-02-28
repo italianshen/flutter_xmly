@@ -61,7 +61,7 @@ class _MineHomePageState extends State<MineHomePage> with TickerProviderStateMix
 
     animation = Tween(begin: Offset(0, 0),end: Offset(0, 1)).animate(controller);
     /// 开始动画
-    controller.forward();
+    // controller.forward();
   }
 
   @override

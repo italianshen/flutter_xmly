@@ -1,0 +1,331 @@
+{
+    "data" : {
+      "page" : 1,
+      "pageSize" : 30,
+      "totalSize" : 18,
+      "data" : [
+        {
+          "name" : "上海动感101",
+          "coverSmall" : "http:\/\/imagev2.xmcdn.com\/group28\/M04\/2F\/A9\/wKgJSFkxP8nwnzyUAACu6A-FdaE776.jpg!op_type=3&columns=60&rows=60",
+          "programName" : "101娱乐在线",
+          "playUrl" : {
+            "aac24" : "http:\/\/live.xmcdn.com\/live\/53\/24.m3u8",
+            "ts64" : "http:\/\/live.xmcdn.com\/live\/53\/64.m3u8?transcode=ts",
+            "aac64" : "http:\/\/live.xmcdn.com\/live\/53\/64.m3u8",
+            "ts24" : "http:\/\/live.xmcdn.com\/live\/53\/24.m3u8?transcode=ts"
+          },
+          "coverLarge" : "http:\/\/imagev2.xmcdn.com\/group28\/M04\/2F\/A9\/wKgJSFkxP8nwnzyUAACu6A-FdaE776.jpg!op_type=3&columns=640&rows=640",
+          "id" : 53,
+          "programScheduleId" : 233498,
+          "publish" : true,
+          "programId" : 44049,
+          "playCount" : 21840832,
+          "fmUid" : 27950535
+        },
+        {
+          "name" : "上海第一财经频率",
+          "coverSmall" : "http:\/\/imagev2.xmcdn.com\/group28\/M01\/31\/09\/wKgJXFkxP8zxPjhbAAA4E0ludxE029.jpg!op_type=3&columns=60&rows=60",
+          "programName" : "股市大家谈",
+          "playUrl" : {
+            "aac24" : "http:\/\/live.xmcdn.com\/live\/56\/24.m3u8",
+            "ts64" : "http:\/\/live.xmcdn.com\/live\/56\/64.m3u8?transcode=ts",
+            "aac64" : "http:\/\/live.xmcdn.com\/live\/56\/64.m3u8",
+            "ts24" : "http:\/\/live.xmcdn.com\/live\/56\/24.m3u8?transcode=ts"
+          },
+          "coverLarge" : "http:\/\/imagev2.xmcdn.com\/group28\/M01\/31\/09\/wKgJXFkxP8zxPjhbAAA4E0ludxE029.jpg!op_type=3&columns=640&rows=640",
+          "id" : 56,
+          "programScheduleId" : 66419,
+          "publish" : true,
+          "programId" : 44157,
+          "playCount" : 11463679,
+          "fmUid" : 23639143
+        },
+        {
+          "name" : "上海东广新闻台",
+          "coverSmall" : "http:\/\/imagev2.xmcdn.com\/group57\/M00\/A0\/14\/wKgLgVxmR57DN7uYAAAvBRc10mM773.jpg!op_type=3&columns=60&rows=60",
+          "programName" : "东广晚间新闻",
+          "playUrl" : {
+            "aac24" : "http:\/\/live.xmcdn.com\/live\/52\/24.m3u8",
+            "ts64" : "http:\/\/live.xmcdn.com\/live\/52\/64.m3u8?transcode=ts",
+            "aac64" : "http:\/\/live.xmcdn.com\/live\/52\/64.m3u8",
+            "ts24" : "http:\/\/live.xmcdn.com\/live\/52\/24.m3u8?transcode=ts"
+          },
+          "coverLarge" : "http:\/\/imagev2.xmcdn.com\/group57\/M00\/A0\/14\/wKgLgVxmR57DN7uYAAAvBRc10mM773.jpg!op_type=3&columns=640&rows=640",
+          "id" : 52,
+          "programScheduleId" : 65986,
+          "publish" : true,
+          "programId" : 152986,
+          "playCount" : 12491761,
+          "fmUid" : 23639140
+        },
+        {
+          "name" : "上海Love Radio",
+          "coverSmall" : "http:\/\/imagev2.xmcdn.com\/group28\/M01\/31\/09\/wKgJXFkxP8ujpk8BAAB4jvN3ySk522.jpg!op_type=3&columns=60&rows=60",
+          "programName" : "娱乐正当时",
+          "playUrl" : {
+            "aac24" : "http:\/\/live.xmcdn.com\/live\/55\/24.m3u8",
+            "ts64" : "http:\/\/live.xmcdn.com\/live\/55\/64.m3u8?transcode=ts",
+            "aac64" : "http:\/\/live.xmcdn.com\/live\/55\/64.m3u8",
+            "ts24" : "http:\/\/live.xmcdn.com\/live\/55\/24.m3u8?transcode=ts"
+          },
+          "coverLarge" : "http:\/\/imagev2.xmcdn.com\/group28\/M01\/31\/09\/wKgJXFkxP8ujpk8BAAB4jvN3ySk522.jpg!op_type=3&columns=640&rows=640",
+          "id" : 55,
+          "programScheduleId" : 66292,
+          "publish" : true,
+          "programId" : 43993,
+          "playCount" : 7727007,
+          "fmUid" : 4262838
+        },
+        {
+          "name" : "上海新闻广播",
+          "coverSmall" : "http:\/\/imagev2.xmcdn.com\/group57\/M09\/9F\/D7\/wKgLd1xmRsOBPsFTAAAb7w_mHh8009.jpg!op_type=3&columns=60&rows=60",
+          "programName" : "非常解读",
+          "playUrl" : {
+            "aac24" : "http:\/\/live.xmcdn.com\/live\/58\/24.m3u8",
+            "ts64" : "http:\/\/live.xmcdn.com\/live\/58\/64.m3u8?transcode=ts",
+            "aac64" : "http:\/\/live.xmcdn.com\/live\/58\/64.m3u8",
+            "ts24" : "http:\/\/live.xmcdn.com\/live\/58\/24.m3u8?transcode=ts"
+          },
+          "coverLarge" : "http:\/\/imagev2.xmcdn.com\/group57\/M09\/9F\/D7\/wKgLd1xmRsOBPsFTAAAb7w_mHh8009.jpg!op_type=3&columns=640&rows=640",
+          "id" : 58,
+          "programScheduleId" : 106233,
+          "publish" : true,
+          "programId" : 153165,
+          "playCount" : 4779422,
+          "fmUid" : 23639145
+        },
+        {
+          "name" : "上海五星体育广播",
+          "coverSmall" : "http:\/\/imagev2.xmcdn.com\/group49\/M06\/B2\/A7\/wKgKl1vb7VuiD6tqAAAp1ZEiOBo911.jpg!op_type=3&columns=60&rows=60",
+          "programName" : "体坛怡佳壹",
+          "playUrl" : {
+            "aac24" : "http:\/\/live.xmcdn.com\/live\/57\/24.m3u8",
+            "ts64" : "http:\/\/live.xmcdn.com\/live\/57\/64.m3u8?transcode=ts",
+            "aac64" : "http:\/\/live.xmcdn.com\/live\/57\/64.m3u8",
+            "ts24" : "http:\/\/live.xmcdn.com\/live\/57\/24.m3u8?transcode=ts"
+          },
+          "coverLarge" : "http:\/\/imagev2.xmcdn.com\/group49\/M06\/B2\/A7\/wKgKl1vb7VuiD6tqAAAp1ZEiOBo911.jpg!op_type=3&columns=640&rows=640",
+          "id" : 57,
+          "programScheduleId" : 66553,
+          "publish" : true,
+          "programId" : 151270,
+          "playCount" : 2913623,
+          "fmUid" : 23639144
+        },
+        {
+          "name" : "上海交通广播电台",
+          "coverSmall" : "http:\/\/imagev2.xmcdn.com\/group28\/M04\/2F\/AA\/wKgJSFkxP9CxrjIEAACMhbWr3WA753.jpg!op_type=3&columns=60&rows=60",
+          "programName" : "阳阳主播台",
+          "playUrl" : {
+            "aac24" : "http:\/\/live.xmcdn.com\/live\/59\/24.m3u8",
+            "ts64" : "http:\/\/live.xmcdn.com\/live\/59\/64.m3u8?transcode=ts",
+            "aac64" : "http:\/\/live.xmcdn.com\/live\/59\/64.m3u8",
+            "ts24" : "http:\/\/live.xmcdn.com\/live\/59\/24.m3u8?transcode=ts"
+          },
+          "coverLarge" : "http:\/\/imagev2.xmcdn.com\/group28\/M04\/2F\/AA\/wKgJSFkxP9CxrjIEAACMhbWr3WA753.jpg!op_type=3&columns=640&rows=640",
+          "id" : 59,
+          "programScheduleId" : 140933,
+          "publish" : true,
+          "programId" : 44233,
+          "playCount" : 2570262,
+          "fmUid" : 23639146
+        },
+        {
+          "name" : "上海戏剧曲艺广播",
+          "coverSmall" : "http:\/\/imagev2.xmcdn.com\/group6\/M02\/62\/E7\/wKgDg1U5_nTDADfxAABD0dOWL9w038.png!op_type=3&columns=60&rows=60",
+          "programName" : "说说唱唱",
+          "playUrl" : {
+            "aac24" : "http:\/\/live.xmcdn.com\/live\/60\/24.m3u8",
+            "ts64" : "http:\/\/live.xmcdn.com\/live\/60\/64.m3u8?transcode=ts",
+            "aac64" : "http:\/\/live.xmcdn.com\/live\/60\/64.m3u8",
+            "ts24" : "http:\/\/live.xmcdn.com\/live\/60\/24.m3u8?transcode=ts"
+          },
+          "coverLarge" : "http:\/\/imagev2.xmcdn.com\/group6\/M02\/62\/E7\/wKgDg1U5_nTDADfxAABD0dOWL9w038.png!op_type=3&columns=640&rows=640",
+          "id" : 60,
+          "programScheduleId" : 174714,
+          "publish" : true,
+          "programId" : 166461,
+          "playCount" : 1488849,
+          "fmUid" : 23639147
+        },
+        {
+          "name" : "上海故事广播",
+          "coverSmall" : "http:\/\/imagev2.xmcdn.com\/group28\/M01\/31\/0A\/wKgJXFkxP9Hyhe92AADOaANCnpQ408.jpg!op_type=3&columns=60&rows=60",
+          "programName" : "最乡村",
+          "playUrl" : {
+            "aac24" : "http:\/\/live.xmcdn.com\/live\/61\/24.m3u8",
+            "ts64" : "http:\/\/live.xmcdn.com\/live\/61\/64.m3u8?transcode=ts",
+            "aac64" : "http:\/\/live.xmcdn.com\/live\/61\/64.m3u8",
+            "ts24" : "http:\/\/live.xmcdn.com\/live\/61\/24.m3u8?transcode=ts"
+          },
+          "coverLarge" : "http:\/\/imagev2.xmcdn.com\/group28\/M01\/31\/0A\/wKgJXFkxP9Hyhe92AADOaANCnpQ408.jpg!op_type=3&columns=640&rows=640",
+          "id" : 61,
+          "programScheduleId" : 66997,
+          "publish" : true,
+          "programId" : 43661,
+          "playCount" : 1301109,
+          "fmUid" : 23639148
+        },
+        {
+          "name" : "上海经典947",
+          "coverSmall" : "http:\/\/imagev2.xmcdn.com\/group28\/M01\/31\/09\/wKgJXFkxP8rzpbxwAACBv7FnMlU741.jpg!op_type=3&columns=60&rows=60",
+          "programName" : "轻松乐逍遥",
+          "playUrl" : {
+            "aac24" : "http:\/\/live.xmcdn.com\/live\/54\/24.m3u8",
+            "ts64" : "http:\/\/live.xmcdn.com\/live\/54\/64.m3u8?transcode=ts",
+            "aac64" : "http:\/\/live.xmcdn.com\/live\/54\/64.m3u8",
+            "ts24" : "http:\/\/live.xmcdn.com\/live\/54\/24.m3u8?transcode=ts"
+          },
+          "coverLarge" : "http:\/\/imagev2.xmcdn.com\/group28\/M01\/31\/09\/wKgJXFkxP8rzpbxwAACBv7FnMlU741.jpg!op_type=3&columns=640&rows=640",
+          "id" : 54,
+          "programScheduleId" : 66198,
+          "publish" : true,
+          "programId" : 43011,
+          "playCount" : 1171383,
+          "fmUid" : 23639141
+        },
+        {
+          "name" : "动感101泡菜电台",
+          "coverSmall" : "http:\/\/imagev2.xmcdn.com\/group29\/M0B\/2D\/5E\/wKgJXVkxSCKBeucSAAG0lLgEeUM686.jpg!op_type=3&columns=60&rows=60",
+          "programName" : "轮播",
+          "playUrl" : {
+            "aac24" : "http:\/\/live.xmcdn.com\/live\/1708\/24.m3u8",
+            "ts24" : "http:\/\/live.xmcdn.com\/live\/1708\/24.m3u8?transcode=ts",
+            "aac64" : "http:\/\/live.xmcdn.com\/live\/1708\/64.m3u8",
+            "ts64" : "http:\/\/live.xmcdn.com\/live\/1708\/64.m3u8?transcode=ts"
+          },
+          "coverLarge" : "http:\/\/imagev2.xmcdn.com\/group29\/M0B\/2D\/5E\/wKgJXVkxSCKBeucSAAG0lLgEeUM686.jpg!op_type=3&columns=640&rows=640",
+          "id" : 1607,
+          "programScheduleId" : 190666,
+          "publish" : true,
+          "programId" : 170105,
+          "playCount" : 1009644,
+          "fmUid" : 0
+        },
+        {
+          "name" : "上海899驾车调频",
+          "coverSmall" : "http:\/\/imagev2.xmcdn.com\/group28\/M05\/30\/66\/wKgJSFkxSE3jNnLhAAAhg7TEi8I966.jpg!op_type=3&columns=60&rows=60",
+          "playUrl" : {
+            "aac24" : "http:\/\/live.xmcdn.com\/live\/1732\/24.m3u8",
+            "ts24" : "http:\/\/live.xmcdn.com\/live\/1732\/24.m3u8?transcode=ts",
+            "aac64" : "http:\/\/live.xmcdn.com\/live\/1732\/64.m3u8",
+            "ts64" : "http:\/\/live.xmcdn.com\/live\/1732\/64.m3u8?transcode=ts"
+          },
+          "coverLarge" : "http:\/\/imagev2.xmcdn.com\/group28\/M05\/30\/66\/wKgJSFkxSE3jNnLhAAAhg7TEi8I966.jpg!op_type=3&columns=640&rows=640",
+          "id" : 1630,
+          "programScheduleId" : 0,
+          "publish" : true,
+          "programId" : 0,
+          "playCount" : 819027,
+          "fmUid" : 0
+        },
+        {
+          "name" : "上海KFM981",
+          "coverSmall" : "http:\/\/imagev2.xmcdn.com\/group28\/M0A\/30\/5E\/wKgJSFkxR9PhVw-XAABNtm9e3Qg481.jpg!op_type=3&columns=60&rows=60",
+          "programName" : "K-GoGo",
+          "playUrl" : {
+            "aac24" : "http:\/\/live.xmcdn.com\/live\/1661\/24.m3u8",
+            "ts24" : "http:\/\/live.xmcdn.com\/live\/1661\/24.m3u8?transcode=ts",
+            "aac64" : "http:\/\/live.xmcdn.com\/live\/1661\/64.m3u8",
+            "ts64" : "http:\/\/live.xmcdn.com\/live\/1661\/64.m3u8?transcode=ts"
+          },
+          "coverLarge" : "http:\/\/imagev2.xmcdn.com\/group28\/M0A\/30\/5E\/wKgJSFkxR9PhVw-XAABNtm9e3Qg481.jpg!op_type=3&columns=640&rows=640",
+          "id" : 1560,
+          "programScheduleId" : 279544,
+          "publish" : true,
+          "programId" : 179681,
+          "playCount" : 534794,
+          "fmUid" : 0
+        },
+        {
+          "name" : "上海城市沸点FM100.1",
+          "coverSmall" : "http:\/\/imagev2.xmcdn.com\/group33\/M08\/0D\/2B\/wKgJTFmWWHqiX9pDAArJlkJNX9s587.jpg!op_type=3&columns=60&rows=60",
+          "programName" : "《MIXFM 活力晚餐》",
+          "playUrl" : {
+            "aac24" : "http:\/\/live.xmcdn.com\/live\/1236\/24.m3u8",
+            "ts24" : "http:\/\/live.xmcdn.com\/live\/1236\/24.m3u8?transcode=ts",
+            "aac64" : "http:\/\/live.xmcdn.com\/live\/1236\/64.m3u8",
+            "ts64" : "http:\/\/live.xmcdn.com\/live\/1236\/64.m3u8?transcode=ts"
+          },
+          "coverLarge" : "http:\/\/imagev2.xmcdn.com\/group33\/M08\/0D\/2B\/wKgJTFmWWHqiX9pDAArJlkJNX9s587.jpg!op_type=3&columns=640&rows=640",
+          "id" : 1236,
+          "programScheduleId" : 317039,
+          "publish" : true,
+          "programId" : 183810,
+          "playCount" : 431075,
+          "fmUid" : 0
+        },
+        {
+          "name" : "闵行人民广播电台",
+          "coverSmall" : "http:\/\/imagev2.xmcdn.com\/group28\/M05\/30\/65\/wKgJSFkxSEuxdh7HAAAX1HCCpAg375.jpg!op_type=3&columns=60&rows=60",
+          "playUrl" : {
+            "aac24" : "http:\/\/live.xmcdn.com\/live\/1731\/24.m3u8",
+            "ts24" : "http:\/\/live.xmcdn.com\/live\/1731\/24.m3u8?transcode=ts",
+            "aac64" : "http:\/\/live.xmcdn.com\/live\/1731\/64.m3u8",
+            "ts64" : "http:\/\/live.xmcdn.com\/live\/1731\/64.m3u8?transcode=ts"
+          },
+          "coverLarge" : "http:\/\/imagev2.xmcdn.com\/group28\/M05\/30\/65\/wKgJSFkxSEuxdh7HAAAX1HCCpAg375.jpg!op_type=3&columns=640&rows=640",
+          "id" : 1629,
+          "programScheduleId" : 0,
+          "publish" : true,
+          "programId" : 0,
+          "playCount" : 90209,
+          "fmUid" : 0
+        },
+        {
+          "name" : "嘉定人民广播电台",
+          "coverSmall" : "http:\/\/imagev2.xmcdn.com\/group29\/M02\/2D\/93\/wKgJWVkxRhrgmsVrAAA2quVppw4495.jpg!op_type=3&columns=60&rows=60",
+          "programName" : "《下班去哪儿》",
+          "playUrl" : {
+            "aac24" : "http:\/\/live.xmcdn.com\/live\/1238\/24.m3u8",
+            "ts24" : "http:\/\/live.xmcdn.com\/live\/1238\/24.m3u8?transcode=ts",
+            "aac64" : "http:\/\/live.xmcdn.com\/live\/1238\/64.m3u8",
+            "ts64" : "http:\/\/live.xmcdn.com\/live\/1238\/64.m3u8?transcode=ts"
+          },
+          "coverLarge" : "http:\/\/imagev2.xmcdn.com\/group29\/M02\/2D\/93\/wKgJWVkxRhrgmsVrAAA2quVppw4495.jpg!op_type=3&columns=640&rows=640",
+          "id" : 1238,
+          "programScheduleId" : 315686,
+          "publish" : true,
+          "programId" : 183629,
+          "playCount" : 137079,
+          "fmUid" : 0
+        },
+        {
+          "name" : "东上海之声",
+          "coverSmall" : "http:\/\/imagev2.xmcdn.com\/group29\/M02\/2D\/33\/wKgJXVkxRhuQoZjKAAqY2BP91Lg202.jpg!op_type=3&columns=60&rows=60",
+          "programName" : "三听可乐",
+          "playUrl" : {
+            "aac24" : "http:\/\/live.xmcdn.com\/live\/1239\/24.m3u8",
+            "ts24" : "http:\/\/live.xmcdn.com\/live\/1239\/24.m3u8?transcode=ts",
+            "aac64" : "http:\/\/live.xmcdn.com\/live\/1239\/64.m3u8",
+            "ts64" : "http:\/\/live.xmcdn.com\/live\/1239\/64.m3u8?transcode=ts"
+          },
+          "coverLarge" : "http:\/\/imagev2.xmcdn.com\/group29\/M02\/2D\/33\/wKgJXVkxRhuQoZjKAAqY2BP91Lg202.jpg!op_type=3&columns=640&rows=640",
+          "id" : 1239,
+          "programScheduleId" : 315039,
+          "publish" : true,
+          "programId" : 182595,
+          "playCount" : 127742,
+          "fmUid" : 0
+        },
+        {
+          "name" : "上海奉贤广播电台",
+          "coverSmall" : "http:\/\/imagev2.xmcdn.com\/group8\/M07\/44\/B0\/wKgDYVWmHP3CdDh6AAFNWRBId4Y921.png!op_type=3&columns=60&rows=60",
+          "playUrl" : {
+            "aac24" : "http:\/\/live.xmcdn.com\/live\/1237\/24.m3u8",
+            "ts24" : "http:\/\/live.xmcdn.com\/live\/1237\/24.m3u8?transcode=ts",
+            "aac64" : "http:\/\/live.xmcdn.com\/live\/1237\/64.m3u8",
+            "ts64" : "http:\/\/live.xmcdn.com\/live\/1237\/64.m3u8?transcode=ts"
+          },
+          "coverLarge" : "http:\/\/imagev2.xmcdn.com\/group8\/M07\/44\/B0\/wKgDYVWmHP3CdDh6AAFNWRBId4Y921.png!op_type=3&columns=640&rows=640",
+          "id" : 1237,
+          "programScheduleId" : 0,
+          "publish" : true,
+          "programId" : 0,
+          "playCount" : 71905,
+          "fmUid" : 0
+        }
+      ]
+    },
+    "ret" : 0
+  }

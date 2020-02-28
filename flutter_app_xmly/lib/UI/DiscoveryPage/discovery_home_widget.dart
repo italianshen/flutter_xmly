@@ -12,7 +12,6 @@ import 'package:provider/provider.dart';
 class DiscoveryPage extends StatefulWidget{
   @override
   State<StatefulWidget> createState() {
-    // TODO: implement createState
     return _DiscoveryPageState();
   }
 }
@@ -31,7 +30,6 @@ class _DiscoveryPageState extends State<DiscoveryPage>
 
   @override
   void initState() {
-    // TODO: implement initState
     super.initState();
     this.tabController = TabController(length:3, vsync: this);
 
@@ -318,7 +316,6 @@ class _DiscoveryPageState extends State<DiscoveryPage>
           );
         });
   }
-
 }
 
 // 头部的视图

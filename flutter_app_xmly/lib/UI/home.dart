@@ -1,10 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_app_xmly/UI/HomeTabWidgets/broad_cast_page.dart';
 import 'package:flutter_app_xmly/UI/HomeTabWidgets/recommentation_lis_page.dart';
-import 'package:flutter_app_xmly/main_providers/theme_model.dart';
-import 'package:provider/provider.dart';
-
-import 'HomeTabWidgets/home_category_page.dart';
 import 'HomeTabWidgets/home_classify_list_view.dart';
 import 'HomeTabWidgets/home_live_page.dart';
 import 'dart:core';
