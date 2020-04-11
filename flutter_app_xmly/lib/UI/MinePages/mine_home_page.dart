@@ -76,7 +76,7 @@ class _MineHomePageState extends State<MineHomePage> with TickerProviderStateMix
   Widget buildHeaderInfoView(){
     return Container(
         width: double.infinity,
-        padding: EdgeInsets.only(left: 0,right: 15.0,top: 15.0,bottom: 0.0),
+        padding: EdgeInsets.only(left: 0,right: 10.0,top: 15.0,bottom: 0.0),
         color: Colors.white,
         child: Column(
           mainAxisAlignment: MainAxisAlignment.start,
@@ -89,11 +89,11 @@ class _MineHomePageState extends State<MineHomePage> with TickerProviderStateMix
                   children: <Widget>[
                     Container(
                       margin: EdgeInsets.only(top: 0.0,left: 15.0),
-                      width: 100.0,
-                      height: 100.0,
+                      width: 80.0,
+                      height: 80.0,
                       decoration: BoxDecoration(
                         shape: BoxShape.rectangle,
-                        borderRadius: BorderRadius.circular(50.0),
+                        borderRadius: BorderRadius.circular(40.0),
                         image: DecorationImage(
                           fit: BoxFit.fill,
                           image: NetworkImage(
@@ -117,14 +117,14 @@ class _MineHomePageState extends State<MineHomePage> with TickerProviderStateMix
                           Text("Tom先生"),
                           SizedBox(height: 15.0,),
                           Expanded(
-                            flex: 2,
+                            flex: 3,
                               child: Row(
                             children: <Widget>[
                               Text("粉丝 100万",style: TextStyle(
                                   fontSize: 15.0,
                                   color: Colors.grey
                               ),),
-                              SizedBox(width: 15.0,),
+                              SizedBox(width: 5.0,),
                               Text("关注 7",style: TextStyle(
                                   fontSize: 15.0,
                                   color: Colors.grey
