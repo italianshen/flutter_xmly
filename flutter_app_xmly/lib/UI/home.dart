@@ -87,7 +87,6 @@ class _HomePageState extends State<HomePage> with SingleTickerProviderStateMixin
 
   /// 初始化内容列表
   Widget _initChannelList(){
-
     return TabBarView(
       controller: _tabController,
         children: tabPages

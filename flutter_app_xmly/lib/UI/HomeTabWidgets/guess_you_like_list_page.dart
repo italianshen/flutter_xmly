@@ -55,7 +55,6 @@ class _GuessYouLikeListPageState extends State<GuessYouLikeListPage>
         getMoreData();
       }
     });
-
   }
   
   Future getNewData() async {

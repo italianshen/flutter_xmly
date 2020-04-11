@@ -163,3 +163,5 @@ class DiscoverInterestDubPage extends StatelessWidget{
       ),);
   }
 }
+
+// sudo diskutil apfs deleteContainer /dev/disk3

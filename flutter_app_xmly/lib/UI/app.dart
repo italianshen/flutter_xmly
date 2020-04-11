@@ -33,8 +33,6 @@ class _AppPageState extends State<AppPage> with AutomaticKeepAliveClientMixin{
   bool get wantKeepAlive => true;
 
 
-
-
   List<BottomNavigationBarItem> tabBarItems(Color themeColor){
     return [
       new BottomNavigationBarItem(
